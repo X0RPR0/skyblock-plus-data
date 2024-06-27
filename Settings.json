@@ -1,6 +1,6 @@
 {
   "mojangApiNum": 1,
-  "ahApiUrl": "localhost:8000/",
+  "ahApiUrl": "http://localhost:8000/",
   "allowMojangApi": true,
   "neuBranch": "master",
   "hasteUrl": "http://localhost:3000/api/"
