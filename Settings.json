@@ -1,7 +1,7 @@
 {
   "mojangApiNum": 1,
-  "ahApiUrl": "https://auctions.sbplus.codes/",
+  "ahApiUrl": "localhost:8000/",
   "allowMojangApi": true,
   "neuBranch": "master",
-  "hasteUrl": "https://haste.sbplus.codes/api/"
+  "hasteUrl": "localhost:3000/api/"
 }
