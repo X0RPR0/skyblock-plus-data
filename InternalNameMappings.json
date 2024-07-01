@@ -750,7 +750,7 @@
     "name": "�[Lvl {LVL}] 헊mmonite",
     "texture": "a074a7bd976fe6aba1624161793be547d54c835cf422243a851ba09d1e650553",
     "wiki": "https://wiki.hypixel.net/Ammonite_Pet",
-    "forge": 1036800
+    "forge": 259200
   },
   "ANCESTRAL_SPADE": {
     "name": "헊ncestral Spade",
@@ -31559,6 +31559,9 @@
   "PET_SKIN_ENDER_DRAGON_UNDEAD": {
     "name": "헧ndead Ender Dragon Skin",
     "wiki": "https://wiki.hypixel.net/Undead_Ender_Dragon_Skin"
+  },
+  "PET_SKIN_FLYING_FISH_HARLEQUIN": {
+    "name": "헔arlequin Flying Fish Skin"
   },
   "PET_SKIN_FOUR_SEASONS_GRIFFIN": {
     "name": "헑our Seasons Griffin Skin",
