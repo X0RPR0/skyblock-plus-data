@@ -709,6 +709,7 @@
   },
   "AMBER_NECKLACE": {
     "name": "ÂAmber Necklace",
+    "wiki": "https://wiki.hypixel.net/Amber_Necklace",
     "forge": 86400
   },
   "AMBER_POLISHED_DRILL_ENGINE": {
@@ -737,6 +738,7 @@
   },
   "AMETHYST_GAUNTLET": {
     "name": "ÂAmethyst Gauntlet",
+    "wiki": "https://wiki.hypixel.net/Amethyst_Gauntlet",
     "forge": 86400
   },
   "AMETHYST_POWER_SCROLL": {
@@ -836,7 +838,8 @@
     "wiki": "https://wiki.hypixel.net/Angler_Chestplate"
   },
   "ANGLER_DEEP_SEA": {
-    "name": "ÂDeep Sea Skin"
+    "name": "ÂDeep Sea Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Deep_Sea_Skin"
   },
   "ANGLER_HELMET": {
     "name": "ÂAngler Helmet",
@@ -1098,7 +1101,8 @@
     "wiki": "https://wiki.hypixel.net/Armadillo_Pet"
   },
   "ARMADILLO_MASK": {
-    "name": "ÂArmadillo Mask"
+    "name": "ÂArmadillo Mask",
+    "wiki": "https://wiki.hypixel.net/Armadillo_Mask"
   },
   "ARMORSHRED_ARROW": {
     "name": "ÂArmorshred Arrow",
@@ -1267,7 +1271,8 @@
       "C1": "",
       "C2": "FRESHLY_MINTED_COINS:4",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Artifact_Of_Coins"
   },
   "ARTIFACT_OF_CONTROL": {
     "name": "ÂÂÂArtifact of Control",
@@ -1520,6 +1525,7 @@
   },
   "AVARICIOUS_CHALICE": {
     "name": "ÂAvaricious Chalice",
+    "wiki": "https://wiki.hypixel.net/Avaricious_Chalice",
     "npc_buy": {
       "cost": [
         "STOCK_OF_STONKS:50"
@@ -2209,10 +2215,12 @@
     "wiki": "https://wiki.hypixel.net/Beach_Ball"
   },
   "BEACH_BALL_BARN_SKIN": {
-    "name": "ÂBeach Ball Barn Skin"
+    "name": "ÂBeach Ball Barn Skin",
+    "wiki": "https://wiki.hypixel.net/Beach_Ball_Barn_Skin"
   },
   "BEACH_BALL_FLUX": {
-    "name": "ÂBeach Ball Power Orb Skin"
+    "name": "ÂBeach Ball Power Orb Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Beach_Ball_Power_Orb_Skin"
   },
   "BEACH_BALL_PERSONALITY": {
     "name": "ÂBeach Ball Minion Skin",
@@ -2447,7 +2455,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bee_Hive"
   },
   "BEE_MASK": {
-    "name": "ÂBee Mask"
+    "name": "ÂBee Mask",
+    "wiki": "https://wiki.hypixel.net/Bee_Mask"
   },
   "BEE_PERSONALITY": {
     "name": "ÂBee Minion Skin",
@@ -3546,7 +3555,8 @@
       "C1": "",
       "C2": "HEMOGLASS:8",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Blood-Soaked_Coins"
   },
   "BLOOD_STAINED_COINS": {
     "name": "ÂBlood-Stained Coins",
@@ -3560,7 +3570,8 @@
       "C1": "",
       "C2": "HEMOGLASS:1",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Blood-Stained_Coins"
   },
   "BLUETOOTH_RING": {
     "name": "ÂBluetooth Ring",
@@ -4101,7 +4112,8 @@
     }
   },
   "BROWN_BANDANA": {
-    "name": "ÂBrown Bandana"
+    "name": "ÂBrown Bandana",
+    "wiki": "https://wiki.hypixel.net/Brown_Bandana"
   },
   "BROWN_MUSHROOM": {
     "name": "ÂBrown Mushroom",
@@ -4973,13 +4985,15 @@
     "name": "ÂCarnival Rod"
   },
   "CARNIVAL_MASK_BAG": {
-    "name": "ÂCarnival Mask Bag"
+    "name": "ÂCarnival Mask Bag",
+    "wiki": "https://wiki.hypixel.net/Carnival_Mask_Bag"
   },
   "CARNIVAL_SHOVEL": {
     "name": "ÂCarnival Shovel"
   },
   "CARNIVAL_TICKET": {
-    "name": "ÂCarnival Ticket"
+    "name": "ÂCarnival Ticket",
+    "wiki": "https://wiki.hypixel.net/Carnival_Ticket"
   },
   "CARPENTRY_BENCH": {
     "name": "ÂCarpentry Table",
@@ -8124,7 +8138,8 @@
       "C1": "GRIFFIN_FEATHER:16",
       "C2": "AVARICIOUS_CHALICE:2",
       "C3": "GRIFFIN_FEATHER:16"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Crown_Of_Avarice"
   },
   "CROWN_OF_GREED": {
     "name": "ÂCrown of Greed",
@@ -9750,6 +9765,7 @@
   },
   "DIVAN_POWDER_COATING": {
     "name": "ÂDivan\u0027s Powder Coating",
+    "wiki": "https://wiki.hypixel.net/Divan%27s_Powder_Coating",
     "forge": 129600
   },
   "DIVER_BOOTS": {
@@ -10294,7 +10310,8 @@
     "wiki": "https://wiki.hypixel.net/Dyes"
   },
   "DYE_PORTAL": {
-    "name": "ÂPortal Dye"
+    "name": "ÂPortal Dye",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Portal_Dye"
   },
   "DYE_PURE_BLACK": {
     "name": "ÂPure Black Dye",
@@ -10711,7 +10728,8 @@
       "C1": "ENCHANTED_EMERALD_BLOCK:6",
       "C2": "AVARICIOUS_CHALICE:1",
       "C3": "ENCHANTED_EMERALD_BLOCK:6"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Emerald_Artifact"
   },
   "EMERALD_BLADE": {
     "name": "ÂEmerald Blade",
@@ -15014,7 +15032,8 @@
     "wiki": "https://wiki.hypixel.net/â˜˜_Fine_Citrine_Gemstone"
   },
   "FINE_FLOUR": {
-    "name": "ÂFine Flour"
+    "name": "ÂFine Flour",
+    "wiki": "https://wiki.hypixel.net/Fine_Flour"
   },
   "FINE_JADE_GEM": {
     "name": "Ââ˜˜ Fine Jade Gemstone",
@@ -16609,6 +16628,7 @@
   },
   "FRESHLY_MINTED_COINS": {
     "name": "ÂFreshly-Minted Coins",
+    "wiki": "https://wiki.hypixel.net/Freshly-Minted_Coins",
     "npc_buy": {
       "cost": [
         "STOCK_OF_STONKS:1"
@@ -16626,7 +16646,8 @@
     "wiki": "https://wiki.hypixel.net/Frog_Barn_Skin"
   },
   "FROG_MASK": {
-    "name": "ÂFrog Mask"
+    "name": "ÂFrog Mask",
+    "wiki": "https://wiki.hypixel.net/Frog_Mask"
   },
   "FROSTY_CRUX": {
     "name": "ÂFrosty Crux",
@@ -17668,6 +17689,7 @@
   },
   "GLEAMING_CRYSTAL": {
     "name": "ÂGleaming Crystal",
+    "wiki": "https://wiki.hypixel.net/Gleaming_Crystal",
     "forge": 32400
   },
   "GLISTENING_MELON_FLUX": {
@@ -17690,7 +17712,8 @@
     "wiki": "https://wiki.hypixel.net/Gloomlock_Grimoire"
   },
   "GLOSSY_GEMSTONE": {
-    "name": "ÂGlossy Gemstone"
+    "name": "ÂGlossy Gemstone",
+    "wiki": "https://wiki.hypixel.net/Glossy_Gemstone"
   },
   "GLOSSY_MINERAL_BOOTS": {
     "name": "ÂGlossy Mineral Boots",
@@ -17704,7 +17727,8 @@
       "C1": "GLOSSY_GEMSTONE:2",
       "C2": "GLOSSY_GEMSTONE:2",
       "C3": "GLOSSY_GEMSTONE:2"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Glossy_Mineral_Boots"
   },
   "GLOSSY_MINERAL_CHESTPLATE": {
     "name": "ÂGlossy Mineral Chestplate",
@@ -17718,7 +17742,8 @@
       "C1": "GLOSSY_GEMSTONE:2",
       "C2": "GLOSSY_GEMSTONE:2",
       "C3": "GLOSSY_GEMSTONE:2"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Glossy_Mineral_Chestplate"
   },
   "GLOSSY_MINERAL_HELMET": {
     "name": "ÂGlossy Mineral Helmet",
@@ -17732,7 +17757,8 @@
       "C1": "GLOSSY_GEMSTONE:2",
       "C2": "GLOSSY_GEMSTONE:2",
       "C3": "GLOSSY_GEMSTONE:2"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Glossy_Mineral_Helmet"
   },
   "GLOSSY_MINERAL_LEGGINGS": {
     "name": "ÂGlossy Mineral Leggings",
@@ -17746,7 +17772,8 @@
       "C1": "GLOSSY_GEMSTONE:2",
       "C2": "GLOSSY_GEMSTONE:2",
       "C3": "GLOSSY_GEMSTONE:2"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Glossy_Mineral_Leggings"
   },
   "GLOSSY_MINERAL_TALISMAN": {
     "name": "ÂGlossy Mineral Talisman",
@@ -17760,7 +17787,8 @@
       "C1": "GLOSSY_GEMSTONE:2",
       "C2": "GLOSSY_GEMSTONE:2",
       "C3": "GLOSSY_GEMSTONE:2"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Glossy_Mineral_Talisman"
   },
   "GLOWING_GRAPE_FLUX": {
     "name": "ÂGlowing Grape Power Orb Skin",
@@ -18166,6 +18194,7 @@
   },
   "GOLDEN_BOUNTY": {
     "name": "ÂGolden Bounty",
+    "wiki": "https://wiki.hypixel.net/Golden_Bounty",
     "npc_buy": {
       "cost": [
         "STOCK_OF_STONKS:20"
@@ -18227,6 +18256,7 @@
   },
   "GOLDEN_FRAGMENT": {
     "name": "ÂGolden Fragment",
+    "wiki": "https://wiki.hypixel.net/Golden_Fragment",
     "npc_buy": {
       "cost": [
         "STOCK_OF_STONKS:3"
@@ -19652,7 +19682,8 @@
     "wiki": "https://wiki.hypixel.net/Halloween_Scarecrow"
   },
   "HAMBAGGER_BACKPACK": {
-    "name": "ÂHambagger Backpack Skin"
+    "name": "ÂHambagger Backpack Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Hambagger_Backpack_Skin"
   },
   "HAMMOCK": {
     "name": "ÂHammock",
@@ -22824,6 +22855,7 @@
   },
   "JADE_BELT": {
     "name": "ÂJade Belt",
+    "wiki": "https://wiki.hypixel.net/Jade_Belt",
     "forge": 86400
   },
   "JADE_CRYSTAL": {
@@ -24312,7 +24344,8 @@
       "C1": "CARNIVAL_TICKET:10",
       "C2": "CARNIVAL_TICKET:10",
       "C3": "CARNIVAL_TICKET:10"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Events_Sack"
   },
   "LARGE_FISHING_SACK": {
     "name": "ÂLarge Fishing Sack",
@@ -27380,10 +27413,12 @@
   },
   "MITHRIL_BELT": {
     "name": "ÂMithril Belt",
+    "wiki": "https://wiki.hypixel.net/Mithril_Belt",
     "forge": 3600
   },
   "MITHRIL_CLOAK": {
     "name": "ÂMithril Cloak",
+    "wiki": "https://wiki.hypixel.net/Mithril_Cloak",
     "forge": 3600
   },
   "MITHRIL_COAT": {
@@ -27438,6 +27473,7 @@
   },
   "MITHRIL_GAUNTLET": {
     "name": "ÂMithril Gauntlet",
+    "wiki": "https://wiki.hypixel.net/Mithril_Gauntlet",
     "forge": 3600
   },
   "MITHRIL_GENERATOR_1": {
@@ -27722,6 +27758,7 @@
   },
   "MITHRIL_NECKLACE": {
     "name": "ÂMithril Necklace",
+    "wiki": "https://wiki.hypixel.net/Mithril_Necklace",
     "forge": 3600
   },
   "MITHRIL_ORE": {
@@ -30112,10 +30149,12 @@
     "wiki": "https://wiki.hypixel.net/Parrot_Pet"
   },
   "PARROT_MASK": {
-    "name": "ÂParrot Mask"
+    "name": "ÂParrot Mask",
+    "wiki": "https://wiki.hypixel.net/Parrot_Mask"
   },
   "PARTY_GIFT": {
-    "name": "ÂParty Gift"
+    "name": "ÂParty Gift",
+    "wiki": "https://wiki.hypixel.net/Party_Gift"
   },
   "PARTY_HAT_CRAB_AQUA": {
     "name": "ÂÂÂAqua Crab Hat of Celebration",
@@ -31265,7 +31304,8 @@
     }
   },
   "PEST_VEST": {
-    "name": "ÂPest Vest"
+    "name": "ÂPest Vest",
+    "wiki": "https://wiki.hypixel.net/Pest_Vest"
   },
   "PETRIFIED_STARFALL": {
     "name": "ÂPetrified Starfall",
@@ -31666,10 +31706,12 @@
     "wiki": "https://wiki.hypixel.net/Frozen_Blaze_Skin"
   },
   "PET_SKIN_BLAZE_PLUSHIE": {
-    "name": "ÂPlushie Blaze Skin"
+    "name": "ÂPlushie Blaze Skin",
+    "wiki": "https://wiki.hypixel.net/Plushie_Blaze_Skin"
   },
   "PET_SKIN_BLUE_WHALE_PLUSHIE": {
-    "name": "ÂPlushie Blue Whale Skin"
+    "name": "ÂPlushie Blue Whale Skin",
+    "wiki": "https://wiki.hypixel.net/Plushie_Blue_Whale_Skin"
   },
   "PET_SKIN_CAT_SPACE_KITTY": {
     "name": "ÂSpace Kitty Black Cat Skin",
@@ -31832,7 +31874,8 @@
     "wiki": "https://wiki.hypixel.net/Undead_Ender_Dragon_Skin"
   },
   "PET_SKIN_FLYING_FISH_HARLEQUIN": {
-    "name": "ÂHarlequin Flying Fish Skin"
+    "name": "ÂHarlequin Flying Fish Skin",
+    "wiki": "https://wiki.hypixel.net/Harlequin_Flying_Fish_Skin"
   },
   "PET_SKIN_FOUR_SEASONS_GRIFFIN": {
     "name": "ÂFour Seasons Griffin Skin",
@@ -32335,7 +32378,8 @@
     "wiki": "https://wiki.hypixel.net/Doge_Wolf_Skin"
   },
   "PET_SKIN_WOLF_DOGE_PLUSHIE": {
-    "name": "ÂDoge Plushie Wolf Skin"
+    "name": "ÂDoge Plushie Wolf Skin",
+    "wiki": "https://wiki.hypixel.net/Doge_Plushie_Wolf_Skin"
   },
   "PET_SKIN_WOLF_HUSKY": {
     "name": "ÂHusky Wolf Skin",
@@ -36770,7 +36814,8 @@
     "wiki": "https://wiki.hypixel.net/Rekindled_Ember_Boots"
   },
   "REKINDLED_EMBER_BURNING": {
-    "name": "ÂSmoldering Ember Skin"
+    "name": "ÂSmoldering Ember Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Smoldering_Ember_Skin"
   },
   "REKINDLED_EMBER_CHESTPLATE": {
     "name": "ÂRekindled Ember Chestplate",
@@ -36833,7 +36878,8 @@
       "C1": "",
       "C2": "FRESHLY_MINTED_COINS:16",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Relic_Of_Coins"
   },
   "REMNANT_OF_THE_EYE": {
     "name": "ÂRemnant of the Eye",
@@ -37382,7 +37428,8 @@
       "C1": "",
       "C2": "FRESHLY_MINTED_COINS:1",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Ring_Of_Coins"
   },
   "RING_POTION_AFFINITY": {
     "name": "ÂPotion Affinity Ring",
@@ -37801,7 +37848,8 @@
     "wiki": "https://wiki.hypixel.net/Salmon_Leggings"
   },
   "SALMON_MASK": {
-    "name": "ÂSalmon Mask"
+    "name": "ÂSalmon Mask",
+    "wiki": "https://wiki.hypixel.net/Salmon_Mask"
   },
   "SALMON_OPAL": {
     "name": "ÂSalmon Opal",
@@ -37907,7 +37955,8 @@
     }
   },
   "SAND_CASTLE_BARN_SKIN": {
-    "name": "ÂSand Castle Barn Skin"
+    "name": "ÂSand Castle Barn Skin",
+    "wiki": "https://wiki.hypixel.net/Sand_Castle_Barn_Skin"
   },
   "SAND_GENERATOR_1": {
     "name": "ÂSand Minion I",
@@ -38098,6 +38147,7 @@
   },
   "SAPPHIRE_CLOAK": {
     "name": "ÂSapphire Cloak",
+    "wiki": "https://wiki.hypixel.net/Sapphire_Cloak",
     "forge": 86400
   },
   "SAPPHIRE_CRYSTAL": {
@@ -38293,7 +38343,8 @@
       "C1": "BLOOD_SOAKED_COINS:1",
       "C2": "FRESHLY_MINTED_COINS:4",
       "C3": "BLOOD_SOAKED_COINS:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Scavenger_Artifact"
   },
   "SCAVENGER_RING": {
     "name": "ÂScavenger Ring",
@@ -38307,7 +38358,8 @@
       "C1": "BLOOD_STAINED_COINS:1",
       "C2": "FRESHLY_MINTED_COINS:2",
       "C3": "BLOOD_STAINED_COINS:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Scavenger_Ring"
   },
   "SCAVENGER_TALISMAN": {
     "name": "ÂScavenger Talisman",
@@ -43527,7 +43579,8 @@
     }
   },
   "STARLIGHT_STARKNIGHT": {
-    "name": "ÂStarknight Skin"
+    "name": "ÂStarknight Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Starknight_Skin"
   },
   "STARLIGHT_WAND": {
     "name": "ÂStarlight Wand",
@@ -46404,10 +46457,12 @@
   },
   "TITANIUM_BELT": {
     "name": "ÂTitanium Belt",
+    "wiki": "https://wiki.hypixel.net/Titanium_Belt",
     "forge": 16200
   },
   "TITANIUM_CLOAK": {
     "name": "ÂTitanium Cloak",
+    "wiki": "https://wiki.hypixel.net/Titanium_Cloak",
     "forge": 16200
   },
   "TITANIUM_DRILL_1": {
@@ -46442,10 +46497,12 @@
   },
   "TITANIUM_GAUNTLET": {
     "name": "ÂTitanium Gauntlet",
+    "wiki": "https://wiki.hypixel.net/Titanium_Gauntlet",
     "forge": 16200
   },
   "TITANIUM_NECKLACE": {
     "name": "ÂTitanium Necklace",
+    "wiki": "https://wiki.hypixel.net/Titanium_Necklace",
     "forge": 16200
   },
   "TITANIUM_ORE": {
@@ -50852,7 +50909,8 @@
     "wiki": "https://wiki.hypixel.net/Zombie_Lord_Leggings"
   },
   "ZOMBIE_MASK": {
-    "name": "ÂZombie Mask"
+    "name": "ÂZombie Mask",
+    "wiki": "https://wiki.hypixel.net/Zombie_Mask"
   },
   "ZOMBIE_PICKAXE": {
     "name": "ÂZombie Pickaxe",
