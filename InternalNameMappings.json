@@ -1610,7 +1610,31 @@
     "texture": "c469ba2047122e0a2de3c7437ad3dd5d31f1ac2d27abde9f8841e1d92a8c5b75",
     "wiki": "https://wiki.hypixel.net/Bal_Pet"
   },
-  "BALLOON_HAT_2024": {
+  "BALLOON_HAT_2024_AQUA": {
+    "name": "ÂÂAqua 5th Anniversary Balloon Hat"
+  },
+  "BALLOON_HAT_2024_BLACK": {
+    "name": "ÂÂBlack 5th Anniversary Balloon Hat"
+  },
+  "BALLOON_HAT_2024_GREEN": {
+    "name": "ÂÂGreen 5th Anniversary Balloon Hat"
+  },
+  "BALLOON_HAT_2024_LIME": {
+    "name": "ÂÂLime 5th Anniversary Balloon Hat"
+  },
+  "BALLOON_HAT_2024_ORANGE": {
+    "name": "ÂÂOrange 5th Anniversary Balloon Hat"
+  },
+  "BALLOON_HAT_2024_PINK": {
+    "name": "ÂÂPink 5th Anniversary Balloon Hat"
+  },
+  "BALLOON_HAT_2024_PURPLE": {
+    "name": "ÂÂPurple 5th Anniversary Balloon Hat"
+  },
+  "BALLOON_HAT_2024_RED": {
+    "name": "ÂÂRed 5th Anniversary Balloon Hat"
+  },
+  "BALLOON_HAT_2024_YELLOW": {
     "name": "ÂÂYellow 5th Anniversary Balloon Hat"
   },
   "BALLOON_SNAKE": {
