@@ -30070,6 +30070,9 @@
       ]
     }
   },
+  "PAINTERS_PALETTE": {
+    "name": "ÂPainter\u0027s Palette"
+  },
   "PAINTING": {
     "name": "ÂPainting",
     "recipe": {
