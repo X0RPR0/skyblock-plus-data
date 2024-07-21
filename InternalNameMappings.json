@@ -1102,7 +1102,13 @@
   },
   "ARMADILLO_MASK": {
     "name": "ÂArmadillo Mask",
-    "wiki": "https://wiki.hypixel.net/Armadillo_Mask"
+    "wiki": "https://wiki.hypixel.net/Armadillo_Mask",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_CARNIVAL_POINT:1000"
+      ],
+      "count": 1
+    }
   },
   "ARMORSHRED_ARROW": {
     "name": "ÂArmorshred Arrow",
@@ -2480,7 +2486,13 @@
   },
   "BEE_MASK": {
     "name": "ÂBee Mask",
-    "wiki": "https://wiki.hypixel.net/Bee_Mask"
+    "wiki": "https://wiki.hypixel.net/Bee_Mask",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_CARNIVAL_POINT:2000"
+      ],
+      "count": 1
+    }
   },
   "BEE_PERSONALITY": {
     "name": "ÂBee Minion Skin",
@@ -5010,7 +5022,13 @@
   },
   "CARNIVAL_MASK_BAG": {
     "name": "ÂCarnival Mask Bag",
-    "wiki": "https://wiki.hypixel.net/Carnival_Mask_Bag"
+    "wiki": "https://wiki.hypixel.net/Carnival_Mask_Bag",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_CARNIVAL_POINT:250"
+      ],
+      "count": 1
+    }
   },
   "CARNIVAL_SHOVEL": {
     "name": "ÂCarnival Shovel"
@@ -16671,7 +16689,13 @@
   },
   "FROG_MASK": {
     "name": "ÂFrog Mask",
-    "wiki": "https://wiki.hypixel.net/Frog_Mask"
+    "wiki": "https://wiki.hypixel.net/Frog_Mask",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_CARNIVAL_POINT:200"
+      ],
+      "count": 1
+    }
   },
   "FROSTY_CRUX": {
     "name": "ÂFrosty Crux",
@@ -30177,7 +30201,13 @@
   },
   "PARROT_MASK": {
     "name": "ÂParrot Mask",
-    "wiki": "https://wiki.hypixel.net/Parrot_Mask"
+    "wiki": "https://wiki.hypixel.net/Parrot_Mask",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_CARNIVAL_POINT:1000"
+      ],
+      "count": 1
+    }
   },
   "PARTY_GIFT": {
     "name": "ÂParty Gift",
@@ -37876,7 +37906,13 @@
   },
   "SALMON_MASK": {
     "name": "ÂSalmon Mask",
-    "wiki": "https://wiki.hypixel.net/Salmon_Mask"
+    "wiki": "https://wiki.hypixel.net/Salmon_Mask",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_CARNIVAL_POINT:500"
+      ],
+      "count": 1
+    }
   },
   "SALMON_OPAL": {
     "name": "ÂSalmon Opal",
@@ -40050,6 +40086,10 @@
   "SKYBLOCK_BRONZE_MEDAL": {
     "name": "ÂÂÂBronze Medal",
     "wiki": "https://wiki.hypixel.net/Bronze_Medal"
+  },
+  "SKYBLOCK_CARNIVAL_POINT": {
+    "name": "ÂCarnival Point",
+    "wiki": "https://wiki.hypixel.net/Carnival"
   },
   "SKYBLOCK_CHAIR": {
     "name": "ÂDark Oak Chair",
@@ -50937,7 +50977,13 @@
   },
   "ZOMBIE_MASK": {
     "name": "ÂZombie Mask",
-    "wiki": "https://wiki.hypixel.net/Zombie_Mask"
+    "wiki": "https://wiki.hypixel.net/Zombie_Mask",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_CARNIVAL_POINT:500"
+      ],
+      "count": 1
+    }
   },
   "ZOMBIE_PICKAXE": {
     "name": "ÂZombie Pickaxe",
