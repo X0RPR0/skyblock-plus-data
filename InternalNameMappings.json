@@ -30209,9 +30209,21 @@
       "count": 1
     }
   },
+  "PARTY_BELT": {
+    "name": "ÂParty Belt"
+  },
+  "PARTY_CLOAK": {
+    "name": "ÂParty Cloak"
+  },
   "PARTY_GIFT": {
     "name": "ÂParty Gift",
     "wiki": "https://wiki.hypixel.net/Party_Gift"
+  },
+  "PARTY_GLOVES": {
+    "name": "ÂParty Gloves"
+  },
+  "PARTY_HAT": {
+    "name": "ÂParty Top Hat"
   },
   "PARTY_HAT_CRAB_AQUA": {
     "name": "ÂÂÂAqua Crab Hat of Celebration",
@@ -30324,6 +30336,12 @@
   "PARTY_HAT_SLOTH_TEARS": {
     "name": "ÂÂÂTears Sloth Hat of Celebration",
     "wiki": "https://wiki.hypixel.net/Sloth_Hat_Of_Celebration"
+  },
+  "PARTY_NECKLACE": {
+    "name": "ÂParty Necklace"
+  },
+  "PARTY_THE_FISH": {
+    "name": "ÂParty the Fish"
   },
   "PEDESTAL": {
     "name": "ÂX PEDESTAL",
@@ -41022,6 +41040,9 @@
     "name": "Â[Lvl {LVL}] ÂSnowman",
     "texture": "903485cb1cd882fdd7faaf1359ffc3bd4d5341c81c17e95527204e554dad8188",
     "wiki": "https://wiki.hypixel.net/Snowman_Pet"
+  },
+  "SNOWMAN_MASK": {
+    "name": "ÂSnowman Mask"
   },
   "SNOWMAN_PERSONALITY": {
     "name": "ÂSnowman Minion Skin",
