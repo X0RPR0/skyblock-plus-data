@@ -3670,7 +3670,7 @@
     }
   },
   "BLUE_WHALE;2": {
-    "name": "ÂÂÂ[Lvl {LVL}] ÂBlue Whale",
+    "name": "Â[Lvl {LVL}] ÂBlue Whale",
     "texture": "dab779bbccc849f88273d844e8ca2f3a67a1699cb216c0a11b44326ce2cc20",
     "wiki": "https://wiki.hypixel.net/Blue_Whale_Pet",
     "npc_buy": {
@@ -3681,7 +3681,7 @@
     }
   },
   "BLUE_WHALE;3": {
-    "name": "ÂÂÂ[Lvl {LVL}] ÂBlue Whale",
+    "name": "Â[Lvl {LVL}] ÂBlue Whale",
     "texture": "dab779bbccc849f88273d844e8ca2f3a67a1699cb216c0a11b44326ce2cc20",
     "wiki": "https://wiki.hypixel.net/Blue_Whale_Pet",
     "npc_buy": {
@@ -3692,7 +3692,7 @@
     }
   },
   "BLUE_WHALE;4": {
-    "name": "ÂÂÂ[Lvl {LVL}] ÂBlue Whale",
+    "name": "Â[Lvl {LVL}] ÂBlue Whale",
     "texture": "dab779bbccc849f88273d844e8ca2f3a67a1699cb216c0a11b44326ce2cc20",
     "wiki": "https://wiki.hypixel.net/Blue_Whale_Pet",
     "npc_buy": {
@@ -4177,6 +4177,9 @@
       "C2": "",
       "C3": ""
     }
+  },
+  "BUCKET_OF_DYE": {
+    "name": "ÂBucket of Dye"
   },
   "BUDGET_HOPPER": {
     "name": "ÂBudget Hopper",
@@ -10275,24 +10278,27 @@
     "name": "ÂÂÂAquamarine Dye",
     "wiki": "https://wiki.hypixel.net/Aquamarine_Dye"
   },
+  "DYE_ARCHFIEND": {
+    "name": "ÂArchfiend Dye"
+  },
   "DYE_BINGO_BLUE": {
     "name": "ÂBingo Blue Dye",
     "wiki": "https://wiki.hypixel.net/Bingo_Blue_Dye"
   },
   "DYE_BONE": {
-    "name": "ÂÂÂBone Dye",
+    "name": "ÂBone Dye",
     "wiki": "https://wiki.hypixel.net/Bone_Dye"
   },
   "DYE_BRICK_RED": {
-    "name": "ÂÂÂBrick Red Dye",
+    "name": "ÂBrick Red Dye",
     "wiki": "https://wiki.hypixel.net/Dyes"
   },
   "DYE_BYZANTIUM": {
-    "name": "ÂÂÂByzantium Dye",
+    "name": "ÂByzantium Dye",
     "wiki": "https://wiki.hypixel.net/Byzantium_Dye"
   },
   "DYE_CARMINE": {
-    "name": "ÂÂÂCarmine Dye",
+    "name": "ÂCarmine Dye",
     "wiki": "https://wiki.hypixel.net/Carmine_Dye"
   },
   "DYE_CELADON": {
@@ -10300,23 +10306,26 @@
     "wiki": "https://wiki.hypixel.net/Dyes"
   },
   "DYE_CELESTE": {
-    "name": "ÂÂÂCeleste Dye",
+    "name": "ÂCeleste Dye",
     "wiki": "https://wiki.hypixel.net/Dyes"
   },
   "DYE_CHOCOLATE": {
     "name": "ÂChocolate Dye",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Chocolate_Dye"
   },
+  "DYE_COPPER": {
+    "name": "ÂCopper Dye"
+  },
   "DYE_CYCLAMEN": {
     "name": "ÂCyclamen Dye",
     "wiki": "https://wiki.hypixel.net/Cyclamen_Dye"
   },
   "DYE_DARK_PURPLE": {
-    "name": "ÂÂÂDark Purple Dye",
+    "name": "ÂDark Purple Dye",
     "wiki": "https://wiki.hypixel.net/Dark_Purple_Dye"
   },
   "DYE_EMERALD": {
-    "name": "ÂÂÂEmerald Dye",
+    "name": "ÂEmerald Dye",
     "wiki": "https://wiki.hypixel.net/Emerald_Dye"
   },
   "DYE_FLAME": {
@@ -10336,7 +10345,7 @@
     "wiki": "https://wiki.hypixel.net/Lucky_Dye"
   },
   "DYE_MANGO": {
-    "name": "ÂÂÂMango Dye",
+    "name": "ÂMango Dye",
     "wiki": "https://wiki.hypixel.net/Mango_Dye"
   },
   "DYE_NADESHIKO": {
@@ -10344,11 +10353,11 @@
     "wiki": "https://wiki.hypixel.net/Dyes"
   },
   "DYE_NECRON": {
-    "name": "ÂÂÂNecron Dye",
+    "name": "ÂNecron Dye",
     "wiki": "https://wiki.hypixel.net/Necron_Dye"
   },
   "DYE_NYANZA": {
-    "name": "ÂÂÂNyanza Dye",
+    "name": "ÂNyanza Dye",
     "wiki": "https://wiki.hypixel.net/Dyes"
   },
   "DYE_PORTAL": {
@@ -14502,7 +14511,7 @@
     "wiki": "https://wiki.hypixel.net/Feather"
   },
   "FEATHER_ARTIFACT": {
-    "name": "ÂÂÂFeather Artifact",
+    "name": "ÂFeather Artifact",
     "recipe": {
       "A1": "",
       "A2": "ENCHANTED_FEATHER:32",
@@ -14547,7 +14556,7 @@
     "name": "ÂÂÂEnchanted Book"
   },
   "FEATHER_RING": {
-    "name": "ÂÂÂFeather Ring",
+    "name": "ÂFeather Ring",
     "recipe": {
       "A1": "ENCHANTED_FEATHER:1",
       "A2": "FEATHER_TALISMAN:1",
@@ -16883,8 +16892,18 @@
     "wiki": "https://wiki.hypixel.net/Complete_Century_Cake_Bundle"
   },
   "FULL_CHUM_BUCKET": {
-    "name": "ÂÂÂFull Chum Bucket",
-    "wiki": "https://wiki.hypixel.net/Full_Chum_Bucket"
+    "name": "ÂFull Chum Bucket",
+    "recipe": {
+      "A1": "",
+      "A2": "CHUM:10",
+      "A3": "",
+      "B1": "",
+      "B2": "EMPTY_CHUM_BUCKET:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
   },
   "FULL_JAW_FANGING_KIT": {
     "name": "ÂFull-Jaw Fanging Kit",
@@ -30030,7 +30049,7 @@
     "wiki": "https://wiki.hypixel.net/Overflux_Capacitor"
   },
   "OVERFLUX_POWER_ORB": {
-    "name": "ÂÂÂOverflux Power Orb",
+    "name": "ÂOverflux Power Orb",
     "recipe": {
       "A1": "GOLDEN_TOOTH:32",
       "A2": "OVERFLUX_CAPACITOR:1",
@@ -32634,7 +32653,7 @@
     "wiki": "https://wiki.hypixel.net/Pigman_Pet"
   },
   "PIGMAN;4": {
-    "name": "ÂÂÂ[Lvl {LVL}] ÂPigman",
+    "name": "Â[Lvl {LVL}] ÂPigman",
     "recipe": {
       "A1": "ENCHANTED_GRILLED_PORK:1",
       "A2": "ENCHANTED_GRILLED_PORK:1",
@@ -35678,7 +35697,7 @@
     "wiki": "https://wiki.hypixel.net/Racing_Helmet"
   },
   "RADIANT_POWER_ORB": {
-    "name": "ÂÂÂRadiant Power Orb",
+    "name": "ÂRadiant Power Orb",
     "recipe": {
       "A1": "WOLF_TOOTH:2",
       "A2": "WOLF_TOOTH:2",
