@@ -10349,7 +10349,7 @@
     "wiki": "https://wiki.hypixel.net/Mango_Dye"
   },
   "DYE_NADESHIKO": {
-    "name": "ÂÂÂNadeshiko Dye",
+    "name": "ÂNadeshiko Dye",
     "wiki": "https://wiki.hypixel.net/Dyes"
   },
   "DYE_NECRON": {
@@ -10389,7 +10389,7 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Warden_Dye"
   },
   "DYE_WILD_STRAWBERRY": {
-    "name": "ÂÂÂWild Strawberry Dye",
+    "name": "ÂWild Strawberry Dye",
     "wiki": "https://wiki.hypixel.net/Wild_Strawberry_Dye"
   },
   "EARTH_SHARD": {
@@ -33766,6 +33766,24 @@
   },
   "POTION_POISON;4": {
     "name": "ÂPoison IV Potion"
+  },
+  "POTION_RABBIT;1": {
+    "name": "ÂRabbit I Potion"
+  },
+  "POTION_RABBIT;2": {
+    "name": "ÂRabbit II Potion"
+  },
+  "POTION_RABBIT;3": {
+    "name": "ÂRabbit III Potion"
+  },
+  "POTION_RABBIT;4": {
+    "name": "ÂRabbit IV Potion"
+  },
+  "POTION_RABBIT;5": {
+    "name": "ÂRabbit V Potion"
+  },
+  "POTION_RABBIT;6": {
+    "name": "ÂRabbit VI Potion"
   },
   "POTION_REGENERATION;1": {
     "name": "ÂRegeneration I Potion"
