@@ -10336,7 +10336,7 @@
     "wiki": "https://wiki.hypixel.net/Flame_Dye"
   },
   "DYE_HOLLY": {
-    "name": "ÂÂÂHolly Dye",
+    "name": "ÂHolly Dye",
     "wiki": "https://wiki.hypixel.net/Dyes"
   },
   "DYE_ICEBERG": {
@@ -10357,6 +10357,9 @@
   "DYE_MATCHA": {
     "name": "ÂMatcha Dye"
   },
+  "DYE_MOCHA": {
+    "name": "ÂMocha Dye"
+  },
   "DYE_NADESHIKO": {
     "name": "ÂNadeshiko Dye",
     "wiki": "https://wiki.hypixel.net/Dyes"
@@ -10368,6 +10371,9 @@
   "DYE_NYANZA": {
     "name": "ÂNyanza Dye",
     "wiki": "https://wiki.hypixel.net/Dyes"
+  },
+  "DYE_PEARLESCENT": {
+    "name": "ÂPearlescent Dye"
   },
   "DYE_PORTAL": {
     "name": "ÂPortal Dye",
@@ -19322,6 +19328,9 @@
       "C3": "ENCHANTED_CARROT:40"
     },
     "wiki": "https://wiki.hypixel.net/Great_Carrot_Candy"
+  },
+  "GREAT_SHARK_MAGMA_LORD": {
+    "name": "ÂGreat Shark Magma Lord Skin"
   },
   "GREAT_SPOOK;1": {
     "name": "ÂEnchanted Book"
