@@ -10324,6 +10324,9 @@
     "name": "ÂDark Purple Dye",
     "wiki": "https://wiki.hypixel.net/Dark_Purple_Dye"
   },
+  "DYE_DUNG": {
+    "name": "ÂDung Dye"
+  },
   "DYE_EMERALD": {
     "name": "ÂEmerald Dye",
     "wiki": "https://wiki.hypixel.net/Emerald_Dye"
@@ -10340,6 +10343,9 @@
     "name": "ÂIceberg Dye",
     "wiki": "https://wiki.hypixel.net/Iceberg_Dye"
   },
+  "DYE_LIVID": {
+    "name": "ÂLivid Dye"
+  },
   "DYE_LUCKY": {
     "name": "ÂLucky Dye",
     "wiki": "https://wiki.hypixel.net/Lucky_Dye"
@@ -10347,6 +10353,9 @@
   "DYE_MANGO": {
     "name": "ÂMango Dye",
     "wiki": "https://wiki.hypixel.net/Mango_Dye"
+  },
+  "DYE_MATCHA": {
+    "name": "ÂMatcha Dye"
   },
   "DYE_NADESHIKO": {
     "name": "ÂNadeshiko Dye",
