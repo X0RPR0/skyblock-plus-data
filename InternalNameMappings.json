@@ -1067,6 +1067,9 @@
     "name": "ÂArchaeologist\u0027s Compass",
     "wiki": "https://wiki.hypixel.net/Archaeologist%27s_Compass"
   },
+  "ARCHERY_CUBE": {
+    "name": "ÂArchery Cube"
+  },
   "ARCHFIEND_DICE": {
     "name": "ÂÂÂArchfiend Dice",
     "wiki": "https://wiki.hypixel.net/Archfiend_Dice"
@@ -10275,7 +10278,7 @@
     "wiki": "https://wiki.hypixel.net/Dwarven_Tankard"
   },
   "DYE_AQUAMARINE": {
-    "name": "ÂÂÂAquamarine Dye",
+    "name": "ÂAquamarine Dye",
     "wiki": "https://wiki.hypixel.net/Aquamarine_Dye"
   },
   "DYE_ARCHFIEND": {
@@ -10335,6 +10338,9 @@
     "name": "ÂÂÂFlame Dye",
     "wiki": "https://wiki.hypixel.net/Flame_Dye"
   },
+  "DYE_FOSSIL": {
+    "name": "ÂFossil Dye"
+  },
   "DYE_HOLLY": {
     "name": "ÂHolly Dye",
     "wiki": "https://wiki.hypixel.net/Dyes"
@@ -10374,6 +10380,9 @@
   },
   "DYE_PEARLESCENT": {
     "name": "ÂPearlescent Dye"
+  },
+  "DYE_PELT": {
+    "name": "ÂPelt Dye"
   },
   "DYE_PORTAL": {
     "name": "ÂPortal Dye",
