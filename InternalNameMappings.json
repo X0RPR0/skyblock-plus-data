@@ -1068,7 +1068,8 @@
     "wiki": "https://wiki.hypixel.net/Archaeologist%27s_Compass"
   },
   "ARCHERY_CUBE": {
-    "name": "ÂArchery Cube"
+    "name": "ÂArchery Cube",
+    "wiki": "https://wiki.hypixel.net/Archery_Cube"
   },
   "ARCHFIEND_DICE": {
     "name": "ÂÂÂArchfiend Dice",
@@ -1620,31 +1621,40 @@
     "wiki": "https://wiki.hypixel.net/Bal_Pet"
   },
   "BALLOON_HAT_2024_AQUA": {
-    "name": "ÂÂAqua 5th Anniversary Balloon Hat"
+    "name": "ÂÂAqua 5th Anniversary Balloon Hat",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Aqua_5th_Anniversary_Balloon_Hat"
   },
   "BALLOON_HAT_2024_BLACK": {
-    "name": "ÂÂBlack 5th Anniversary Balloon Hat"
+    "name": "ÂÂBlack 5th Anniversary Balloon Hat",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Black_5th_Anniversary_Balloon_Hat"
   },
   "BALLOON_HAT_2024_GREEN": {
-    "name": "ÂÂGreen 5th Anniversary Balloon Hat"
+    "name": "ÂÂGreen 5th Anniversary Balloon Hat",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Green_5th_Anniversary_Balloon_Hat"
   },
   "BALLOON_HAT_2024_LIME": {
-    "name": "ÂÂLime 5th Anniversary Balloon Hat"
+    "name": "ÂÂLime 5th Anniversary Balloon Hat",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Lime_5th_Anniversary_Balloon_Hat"
   },
   "BALLOON_HAT_2024_ORANGE": {
-    "name": "ÂÂOrange 5th Anniversary Balloon Hat"
+    "name": "ÂÂOrange 5th Anniversary Balloon Hat",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Orange_5th_Anniversary_Balloon_Hat"
   },
   "BALLOON_HAT_2024_PINK": {
-    "name": "ÂÂPink 5th Anniversary Balloon Hat"
+    "name": "ÂÂPink 5th Anniversary Balloon Hat",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pink_5th_Anniversary_Balloon_Hat"
   },
   "BALLOON_HAT_2024_PURPLE": {
-    "name": "ÂÂPurple 5th Anniversary Balloon Hat"
+    "name": "ÂÂPurple 5th Anniversary Balloon Hat",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Purple_5th_Anniversary_Balloon_Hat"
   },
   "BALLOON_HAT_2024_RED": {
-    "name": "ÂÂRed 5th Anniversary Balloon Hat"
+    "name": "ÂÂRed 5th Anniversary Balloon Hat",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Red_5th_Anniversary_Balloon_Hat"
   },
   "BALLOON_HAT_2024_YELLOW": {
-    "name": "ÂÂYellow 5th Anniversary Balloon Hat"
+    "name": "ÂÂYellow 5th Anniversary Balloon Hat",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Yellow_5th_Anniversary_Balloon_Hat"
   },
   "BALLOON_SNAKE": {
     "name": "ÂBalloon Snake",
@@ -5024,7 +5034,8 @@
     "name": "ÂCarnival Dart Tube"
   },
   "CARNIVAL_FISHING_ROD": {
-    "name": "ÂCarnival Rod"
+    "name": "ÂCarnival Rod",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Carnival_Rod"
   },
   "CARNIVAL_MASK_BAG": {
     "name": "ÂCarnival Mask Bag",
@@ -10282,7 +10293,8 @@
     "wiki": "https://wiki.hypixel.net/Aquamarine_Dye"
   },
   "DYE_ARCHFIEND": {
-    "name": "ÂArchfiend Dye"
+    "name": "ÂArchfiend Dye",
+    "wiki": "https://wiki.hypixel.net/Archfiend_Dye"
   },
   "DYE_BINGO_BLUE": {
     "name": "ÂBingo Blue Dye",
@@ -10317,7 +10329,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Chocolate_Dye"
   },
   "DYE_COPPER": {
-    "name": "ÂCopper Dye"
+    "name": "ÂCopper Dye",
+    "wiki": "https://wiki.hypixel.net/Copper_Dye"
   },
   "DYE_CYCLAMEN": {
     "name": "ÂCyclamen Dye",
@@ -10328,7 +10341,8 @@
     "wiki": "https://wiki.hypixel.net/Dark_Purple_Dye"
   },
   "DYE_DUNG": {
-    "name": "ÂDung Dye"
+    "name": "ÂDung Dye",
+    "wiki": "https://wiki.hypixel.net/Dung_Dye"
   },
   "DYE_EMERALD": {
     "name": "ÂEmerald Dye",
@@ -10339,7 +10353,8 @@
     "wiki": "https://wiki.hypixel.net/Flame_Dye"
   },
   "DYE_FOSSIL": {
-    "name": "ÂFossil Dye"
+    "name": "ÂFossil Dye",
+    "wiki": "https://wiki.hypixel.net/Fossil_Dye"
   },
   "DYE_HOLLY": {
     "name": "ÂHolly Dye",
@@ -10350,7 +10365,8 @@
     "wiki": "https://wiki.hypixel.net/Iceberg_Dye"
   },
   "DYE_LIVID": {
-    "name": "ÂLivid Dye"
+    "name": "ÂLivid Dye",
+    "wiki": "https://wiki.hypixel.net/Livid_Dye"
   },
   "DYE_LUCKY": {
     "name": "ÂLucky Dye",
@@ -10361,10 +10377,12 @@
     "wiki": "https://wiki.hypixel.net/Mango_Dye"
   },
   "DYE_MATCHA": {
-    "name": "ÂMatcha Dye"
+    "name": "ÂMatcha Dye",
+    "wiki": "https://wiki.hypixel.net/Matcha_Dye"
   },
   "DYE_MOCHA": {
-    "name": "ÂMocha Dye"
+    "name": "ÂMocha Dye",
+    "wiki": "https://wiki.hypixel.net/Mocha_Dye"
   },
   "DYE_NADESHIKO": {
     "name": "ÂNadeshiko Dye",
@@ -10379,10 +10397,12 @@
     "wiki": "https://wiki.hypixel.net/Dyes"
   },
   "DYE_PEARLESCENT": {
-    "name": "ÂPearlescent Dye"
+    "name": "ÂPearlescent Dye",
+    "wiki": "https://wiki.hypixel.net/Pearlescent_Dye"
   },
   "DYE_PELT": {
-    "name": "ÂPelt Dye"
+    "name": "ÂPelt Dye",
+    "wiki": "https://wiki.hypixel.net/Pelt_Dye"
   },
   "DYE_PORTAL": {
     "name": "ÂPortal Dye",
@@ -16930,7 +16950,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Full_Chum_Bucket"
   },
   "FULL_JAW_FANGING_KIT": {
     "name": "ÂFull-Jaw Fanging Kit",
@@ -19342,7 +19363,8 @@
     "wiki": "https://wiki.hypixel.net/Great_Carrot_Candy"
   },
   "GREAT_SHARK_MAGMA_LORD": {
-    "name": "ÂGreat Shark Magma Lord Skin"
+    "name": "ÂGreat Shark Magma Lord Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Great_Shark_Magma_Lord_Skin"
   },
   "GREAT_SPOOK;1": {
     "name": "ÂEnchanted Book"
@@ -24008,7 +24030,8 @@
     }
   },
   "LANTERN_OF_THE_DEAD": {
-    "name": "ÂLantern of the Dead"
+    "name": "ÂLantern of the Dead",
+    "wiki": "https://wiki.hypixel.net/Lantern_Of_The_Dead"
   },
   "LAPIS_ARMOR_BOOTS": {
     "name": "ÂLapis Armor Boots",
@@ -30147,7 +30170,8 @@
     }
   },
   "PAINTERS_PALETTE": {
-    "name": "ÂPainter\u0027s Palette"
+    "name": "ÂPainter\u0027s Palette",
+    "wiki": "https://wiki.hypixel.net/Painter%27s_Palette"
   },
   "PAINTING": {
     "name": "ÂPainting",
@@ -30262,20 +30286,24 @@
     }
   },
   "PARTY_BELT": {
-    "name": "ÂParty Belt"
+    "name": "ÂParty Belt",
+    "wiki": "https://wiki.hypixel.net/Party_Belt"
   },
   "PARTY_CLOAK": {
-    "name": "ÂParty Cloak"
+    "name": "ÂParty Cloak",
+    "wiki": "https://wiki.hypixel.net/Party_Cloak"
   },
   "PARTY_GIFT": {
     "name": "ÂParty Gift",
     "wiki": "https://wiki.hypixel.net/Party_Gift"
   },
   "PARTY_GLOVES": {
-    "name": "ÂParty Gloves"
+    "name": "ÂParty Gloves",
+    "wiki": "https://wiki.hypixel.net/Party_Gloves"
   },
   "PARTY_HAT": {
-    "name": "ÂParty Top Hat"
+    "name": "ÂParty Top Hat",
+    "wiki": "https://wiki.hypixel.net/Party_Top_Hat"
   },
   "PARTY_HAT_CRAB_AQUA": {
     "name": "ÂÂÂAqua Crab Hat of Celebration",
@@ -30390,10 +30418,12 @@
     "wiki": "https://wiki.hypixel.net/Sloth_Hat_Of_Celebration"
   },
   "PARTY_NECKLACE": {
-    "name": "ÂParty Necklace"
+    "name": "ÂParty Necklace",
+    "wiki": "https://wiki.hypixel.net/Party_Necklace"
   },
   "PARTY_THE_FISH": {
-    "name": "ÂParty the Fish"
+    "name": "ÂParty the Fish",
+    "wiki": "https://wiki.hypixel.net/Party_The_Fish"
   },
   "PEDESTAL": {
     "name": "ÂX PEDESTAL",
@@ -31721,19 +31751,24 @@
     "wiki": "https://wiki.hypixel.net/Vampire_Fang"
   },
   "PET_SKIN_AMMONITE_HERMIT_BAKED_BEANS": {
-    "name": "ÂHermit Baked Beans Ammonite Skin"
+    "name": "ÂHermit Baked Beans Ammonite Skin",
+    "wiki": "https://wiki.hypixel.net/Hermit_Baked_Beans_Ammonite_Skin"
   },
   "PET_SKIN_AMMONITE_HERMIT_BEACH_BALL": {
-    "name": "ÂHermit Beach Ball Ammonite Skin"
+    "name": "ÂHermit Beach Ball Ammonite Skin",
+    "wiki": "https://wiki.hypixel.net/Hermit_Beach_Ball_Ammonite_Skin"
   },
   "PET_SKIN_AMMONITE_HERMIT_GRAPHITE": {
-    "name": "ÂHermit Graphite Ammonite Skin"
+    "name": "ÂHermit Graphite Ammonite Skin",
+    "wiki": "https://wiki.hypixel.net/Hermit_Graphite_Ammonite_Skin"
   },
   "PET_SKIN_AMMONITE_HERMIT_PAUA_SHELL": {
-    "name": "ÂHermit Paua Shell Ammonite Skin"
+    "name": "ÂHermit Paua Shell Ammonite Skin",
+    "wiki": "https://wiki.hypixel.net/Hermit_Paua_Shell_Ammonite_Skin"
   },
   "PET_SKIN_AMMONITE_HERMIT_SAND_CASTLE": {
-    "name": "ÂHermit Sand Castle Ammonite Skin"
+    "name": "ÂHermit Sand Castle Ammonite Skin",
+    "wiki": "https://wiki.hypixel.net/Hermit_Sand_Castle_Ammonite_Skin"
   },
   "PET_SKIN_AMMONITE_MAGMA": {
     "name": "ÂMagma Ammonite Skin",
@@ -31884,7 +31919,8 @@
     "wiki": "https://wiki.hypixel.net/Lunar_Sea_Horse_Dolphin_Skin"
   },
   "PET_SKIN_DOLPHIN_MIDNIGHT": {
-    "name": "ÂMidnight Dolphin Skin"
+    "name": "ÂMidnight Dolphin Skin",
+    "wiki": "https://wiki.hypixel.net/Midnight_Dolphin_Skin"
   },
   "PET_SKIN_DOLPHIN_SNUBFIN": {
     "name": "ÂSnubfin Dolphin Skin",
@@ -33022,7 +33058,8 @@
     "wiki": "https://wiki.hypixel.net/Plasma_Nucleus"
   },
   "PLASTIC_SHOVEL": {
-    "name": "ÂPlastic Shovel"
+    "name": "ÂPlastic Shovel",
+    "wiki": "https://wiki.hypixel.net/Plastic_Shovel"
   },
   "PLUMBER_SPONGE": {
     "name": "ÂPlumber\u0027s Sponge",
@@ -39754,7 +39791,8 @@
     "wiki": "https://wiki.hypixel.net/Sinful_Dice"
   },
   "SINGING_FISH": {
-    "name": "ÂSinging Fish"
+    "name": "ÂSinging Fish",
+    "wiki": "https://wiki.hypixel.net/Singing_Fish"
   },
   "SINSEEKER_SCYTHE": {
     "name": "ÂÂSinÂseeker Scythe",
@@ -41136,7 +41174,8 @@
     "wiki": "https://wiki.hypixel.net/Snowman_Pet"
   },
   "SNOWMAN_MASK": {
-    "name": "ÂSnowman Mask"
+    "name": "ÂSnowman Mask",
+    "wiki": "https://wiki.hypixel.net/Snowman_Mask"
   },
   "SNOWMAN_PERSONALITY": {
     "name": "ÂSnowman Minion Skin",
@@ -44024,7 +44063,8 @@
       "C1": "GOLDEN_FRAGMENT:1",
       "C2": "GOLDEN_FRAGMENT:1",
       "C3": "GOLDEN_FRAGMENT:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/âšš_Midas_Staff"
   },
   "STARRED_MIDAS_SWORD": {
     "name": "Ââšš Midas\u0027 Sword",
@@ -44038,7 +44078,8 @@
       "C1": "GOLDEN_FRAGMENT:1",
       "C2": "GOLDEN_FRAGMENT:1",
       "C3": "GOLDEN_FRAGMENT:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/âšš_Midas%27_Sword"
   },
   "STARRED_SHADOW_ASSASSIN_BOOTS": {
     "name": "Ââšš Shadow Assassin Boots",
