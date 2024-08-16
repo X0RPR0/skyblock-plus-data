@@ -10364,6 +10364,9 @@
     "name": "ÂIceberg Dye",
     "wiki": "https://wiki.hypixel.net/Iceberg_Dye"
   },
+  "DYE_JADE": {
+    "name": "ÂJade Dye"
+  },
   "DYE_LIVID": {
     "name": "ÂLivid Dye",
     "wiki": "https://wiki.hypixel.net/Livid_Dye"
@@ -10403,6 +10406,9 @@
   "DYE_PELT": {
     "name": "ÂPelt Dye",
     "wiki": "https://wiki.hypixel.net/Pelt_Dye"
+  },
+  "DYE_PERIWINKLE": {
+    "name": "ÂPeriwinkle Dye"
   },
   "DYE_PORTAL": {
     "name": "ÂPortal Dye",
