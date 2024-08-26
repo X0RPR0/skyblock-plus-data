@@ -27961,6 +27961,9 @@
     "name": "ÂÂÂMoldfinÂ ÂÂÂSILVER",
     "wiki": "https://wiki.hypixel.net/Trophy_Fish"
   },
+  "MOLDY_MUFFIN": {
+    "name": "ÂMoldy Muffin"
+  },
   "MOLE;4": {
     "name": "Â[Lvl {LVL}] ÂMole",
     "texture": "727baaafc09978d4bda73e16afdde85ec13b0f95ad989524c5fcaa717cf06b4a",
@@ -32210,6 +32213,9 @@
   "PET_SKIN_MOOSHROOM_COW_MOOCELIUM": {
     "name": "ÂMoocelium Mooshroom Cow Skin",
     "wiki": "https://wiki.hypixel.net/Fire_Sale"
+  },
+  "PET_SKIN_MOOSHROOM_COW_MOONBLOOM": {
+    "name": "ÂMoonbloom Mooshroom Cow Skin"
   },
   "PET_SKIN_OCELOT_JUNGLE": {
     "name": "ÂJungle Ocelot Skin",
