@@ -32154,9 +32154,15 @@
     "name": "ÂLoyalty Kuudra Skin",
     "wiki": "https://wiki.hypixel.net/Loyalty_Kuudra_Skin"
   },
+  "PET_SKIN_LION_BLACK": {
+    "name": "ÂBlack Lion Skin"
+  },
   "PET_SKIN_LION_HEART": {
     "name": "ÂHeart Lion Skin",
     "wiki": "https://wiki.hypixel.net/Heart_Lion_Skin"
+  },
+  "PET_SKIN_LION_WHITE": {
+    "name": "ÂWhite Lion Skin"
   },
   "PET_SKIN_MAGMA_CUBE_CHOCO_CUBE": {
     "name": "ÂChoco Magma Cube Skin",
@@ -41950,7 +41956,7 @@
     "wiki": "https://wiki.hypixel.net/Maxor\u0027s_Leggings"
   },
   "SPELLBOUND_RUNE;3": {
-    "name": "ÂÂÂâ—† Spellbound Rune III"
+    "name": "Ââ—† Spellbound Rune III"
   },
   "SPELL_POWDER": {
     "name": "ÂSpell Powder",
