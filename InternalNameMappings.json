@@ -10356,6 +10356,9 @@
     "name": "ÂFossil Dye",
     "wiki": "https://wiki.hypixel.net/Fossil_Dye"
   },
+  "DYE_FROSTBITTEN": {
+    "name": "ÂFrostbitten Dye"
+  },
   "DYE_HOLLY": {
     "name": "ÂHolly Dye",
     "wiki": "https://wiki.hypixel.net/Dyes"
@@ -23009,6 +23012,9 @@
     },
     "wiki": "https://wiki.hypixel.net/Jalapeno_Book"
   },
+  "JAR_OF_SAND": {
+    "name": "ÂJar of Sand"
+  },
   "JASPER_CRYSTAL": {
     "name": "ÂÂÂJasper Crystal",
     "wiki": "https://wiki.hypixel.net/Jasper_Crystal"
@@ -27445,6 +27451,9 @@
   "MINION_STORAGE_EXPANDER": {
     "name": "ÂMinion Storage X-pender",
     "wiki": "https://wiki.hypixel.net/Minion_Storage_X-pender"
+  },
+  "MINI_FISH_BOWL": {
+    "name": "ÂMini Fish Bowl"
   },
   "MINI_SANDCASTLE": {
     "name": "ÂÂÂÂMini Sandcastle",
@@ -46046,7 +46055,7 @@
     "wiki": "https://wiki.hypixel.net/Teleport_Pad"
   },
   "TENTACLE_DYE": {
-    "name": "ÂÂÂTentacle Dye",
+    "name": "ÂTentacle Dye",
     "wiki": "https://wiki.hypixel.net/Dyes"
   },
   "TENTACLE_MEAT": {
