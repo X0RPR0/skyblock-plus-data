@@ -705,7 +705,7 @@
   "AMBER_MATERIAL": {
     "name": "ÂAmber Material",
     "wiki": "https://wiki.hypixel.net/Amber_Material",
-    "forge": 25200
+    "forge": 21600
   },
   "AMBER_NECKLACE": {
     "name": "ÂAmber Necklace",
@@ -715,7 +715,7 @@
   "AMBER_POLISHED_DRILL_ENGINE": {
     "name": "ÂAmber-Polished Drill Engine",
     "wiki": "https://wiki.hypixel.net/Amber-Polished_Drill_Engine",
-    "forge": 180000
+    "forge": 30
   },
   "AMBER_POWER_SCROLL": {
     "name": "ÂAmber Power Scroll",
@@ -1172,7 +1172,7 @@
     "wiki": "https://wiki.hypixel.net/Yog_Boots"
   },
   "ARMOR_OF_YOG_CHESTPLATE": {
-    "name": "ÂÂÂYog Chestplate",
+    "name": "ÂYog Chestplate",
     "recipe": {
       "A1": "YOGGIE:5",
       "A2": "YOGGIE:5",
@@ -1611,12 +1611,12 @@
     "name": "ÂBaked Potato"
   },
   "BAL;3": {
-    "name": "ÂÂÂ[Lvl {LVL}] ÂBal",
+    "name": "Â[Lvl {LVL}] ÂBal",
     "texture": "c469ba2047122e0a2de3c7437ad3dd5d31f1ac2d27abde9f8841e1d92a8c5b75",
     "wiki": "https://wiki.hypixel.net/Bal_Pet"
   },
   "BAL;4": {
-    "name": "ÂÂÂ[Lvl {LVL}] ÂBal",
+    "name": "Â[Lvl {LVL}] ÂBal",
     "texture": "c469ba2047122e0a2de3c7437ad3dd5d31f1ac2d27abde9f8841e1d92a8c5b75",
     "wiki": "https://wiki.hypixel.net/Bal_Pet"
   },
@@ -1675,8 +1675,8 @@
     "wiki": "https://wiki.hypixel.net/Bandaged_Mithril_Pickaxe",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_COIN:100000",
-        "MITHRIL_ORE:200"
+        "ENCHANTED_MITHRIL:2",
+        "FRACTURED_MITHRIL_PICKAXE:1"
       ]
     }
   },
@@ -3103,6 +3103,9 @@
     },
     "texture": "b78ef2e4cf2c41a2d14bfde9caff10219f5b1bf5b35a49eb51c6467882cb5f0",
     "wiki": "https://wiki.hypixel.net/Blaze_Pet"
+  },
+  "BLAZEN_SPHERE": {
+    "name": "ÂBlazen Sphere"
   },
   "BLAZETEKK_HAM_RADIO": {
     "name": "ÂBlazetekkâ„¢ Ham Radio",
@@ -6383,6 +6386,15 @@
   "CHILI_PEPPER": {
     "name": "ÂChili Pepper",
     "wiki": "https://wiki.hypixel.net/Chili_Pepper"
+  },
+  "CHILLED_PRISTINE_POTATO": {
+    "name": "ÂChilled Pristine Potato",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:250000.0"
+      ],
+      "count": 1
+    }
   },
   "CHILL_THE_FISH_2": {
     "name": "ÂÂÂChill the Fish",
@@ -9791,12 +9803,12 @@
   "DIVAN_BOOTS": {
     "name": "ÂBoots of Divan",
     "wiki": "https://wiki.hypixel.net/Boots_Of_Divan",
-    "forge": 82800
+    "forge": 84600
   },
   "DIVAN_CHESTPLATE": {
     "name": "ÂChestplate of Divan",
     "wiki": "https://wiki.hypixel.net/Chestplate_Of_Divan",
-    "forge": 82800
+    "forge": 84600
   },
   "DIVAN_DRILL": {
     "name": "ÂDivan\u0027s Drill",
@@ -9810,12 +9822,12 @@
   "DIVAN_HELMET": {
     "name": "ÂHelmet of Divan",
     "wiki": "https://wiki.hypixel.net/Helmet_Of_Divan",
-    "forge": 82800
+    "forge": 84600
   },
   "DIVAN_LEGGINGS": {
     "name": "ÂLeggings of Divan",
     "wiki": "https://wiki.hypixel.net/Leggings_Of_Divan",
-    "forge": 82800
+    "forge": 84600
   },
   "DIVAN_PENDANT": {
     "name": "ÂPendant of Divan",
@@ -10109,7 +10121,7 @@
     "wiki": "https://wiki.hypixel.net/Dragon_Shortbow"
   },
   "DRILL_ENGINE": {
-    "name": "ÂDrill Engine",
+    "name": "ÂDrill Motor",
     "wiki": "https://wiki.hypixel.net/Drill_Engine",
     "forge": 108000
   },
@@ -10284,9 +10296,24 @@
     "name": "ÂDwarven Sack",
     "wiki": "https://wiki.hypixel.net/Dwarven_Sack"
   },
+  "DWARVEN_OS_BLOCK_BRAN": {
+    "name": "ÂDwarven O\u0027s Block Bran"
+  },
+  "DWARVEN_OS_GEMSTONE_GRAHAMS": {
+    "name": "ÂDwarven O\u0027s Gemstone Grahams"
+  },
+  "DWARVEN_OS_METALLIC_MINIS": {
+    "name": "ÂDwarven O\u0027s Metallic Minis"
+  },
+  "DWARVEN_OS_ORE_OATS": {
+    "name": "ÂDwarven O\u0027s Ore Oats"
+  },
   "DWARVEN_TANKARD": {
     "name": "ÂÂÂDwarven Tankard",
     "wiki": "https://wiki.hypixel.net/Dwarven_Tankard"
+  },
+  "DWARVEN_TREASURE": {
+    "name": "ÂDwarven Treasure"
   },
   "DYE_AQUAMARINE": {
     "name": "ÂAquamarine Dye",
@@ -11516,8 +11543,7 @@
       "C1": "",
       "C2": "COBBLESTONE:32",
       "C3": ""
-    },
-    "wiki": "https://wiki.hypixel.net/Enchanted_Cobblestone"
+    }
   },
   "ENCHANTED_COCOA": {
     "name": "ÂEnchanted Cocoa Beans",
@@ -15024,6 +15050,15 @@
     "name": "ÂFifth Master Star",
     "wiki": "https://wiki.hypixel.net/Fifth_Master_Star"
   },
+  "FILET_O_FORTUNE": {
+    "name": "ÂFilet O\u0027 Fortune",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:100000.0"
+      ],
+      "count": 1
+    }
+  },
   "FINAL_DESTINATION_BOOTS": {
     "name": "ÂÂÂFinal Destination Boots",
     "recipe": {
@@ -16009,7 +16044,7 @@
     "wiki": "https://wiki.hypixel.net/%E2%9C%A7_Flawed_Topaz_Gemstone"
   },
   "FLAWLESS_AMBER_GEM": {
-    "name": "Ââ¸• ÂFlawless Amber Gemstone",
+    "name": "Ââ¸• Flawless Amber Gemstone",
     "recipe": {
       "A1": "",
       "A2": "FINE_AMBER_GEM:16",
@@ -16024,7 +16059,7 @@
     "wiki": "https://wiki.hypixel.net/%E2%B8%95_Flawless_Amber_Gemstone"
   },
   "FLAWLESS_AMETHYST_GEM": {
-    "name": "Ââˆ ÂFlawless Amethyst Gemstone",
+    "name": "Ââˆ Flawless Amethyst Gemstone",
     "recipe": {
       "A1": "",
       "A2": "FINE_AMETHYST_GEM:16",
@@ -16069,7 +16104,7 @@
     "wiki": "https://wiki.hypixel.net/â˜˜_Flawless_Citrine_Gemstone"
   },
   "FLAWLESS_JADE_GEM": {
-    "name": "Ââ˜˜ ÂFlawless Jade Gemstone",
+    "name": "Ââ˜˜ Flawless Jade Gemstone",
     "recipe": {
       "A1": "",
       "A2": "FINE_JADE_GEM:16",
@@ -16084,7 +16119,7 @@
     "wiki": "https://wiki.hypixel.net/%E2%98%98_Flawless_Jade_Gemstone"
   },
   "FLAWLESS_JASPER_GEM": {
-    "name": "Ââ ÂFlawless Jasper Gemstone",
+    "name": "Ââ Flawless Jasper Gemstone",
     "recipe": {
       "A1": "",
       "A2": "FINE_JASPER_GEM:16",
@@ -16114,7 +16149,7 @@
     "wiki": "https://wiki.hypixel.net/â˜ _Flawless_Onyx_Gemstone"
   },
   "FLAWLESS_OPAL_GEM": {
-    "name": "Ââ‚ ÂFlawless Opal Gemstone",
+    "name": "Ââ‚ Flawless Opal Gemstone",
     "recipe": {
       "A1": "",
       "A2": "FINE_OPAL_GEM:16",
@@ -16144,7 +16179,7 @@
     "wiki": "https://wiki.hypixel.net/â˜˜_Flawless_Peridot_Gemstone"
   },
   "FLAWLESS_RUBY_GEM": {
-    "name": "Ââ¤ ÂFlawless Ruby Gemstone",
+    "name": "Ââ¤ Flawless Ruby Gemstone",
     "recipe": {
       "A1": "",
       "A2": "FINE_RUBY_GEM:16",
@@ -16159,7 +16194,7 @@
     "wiki": "https://wiki.hypixel.net/%E2%9D%A4_Flawless_Ruby_Gemstone"
   },
   "FLAWLESS_SAPPHIRE_GEM": {
-    "name": "ÂâœŽ ÂFlawless Sapphire Gemstone",
+    "name": "ÂâœŽ Flawless Sapphire Gemstone",
     "recipe": {
       "A1": "",
       "A2": "FINE_SAPPHIRE_GEM:16",
@@ -16174,7 +16209,7 @@
     "wiki": "https://wiki.hypixel.net/%E2%9C%8E_Flawless_Sapphire_Gemstone"
   },
   "FLAWLESS_TOPAZ_GEM": {
-    "name": "Ââœ§ ÂFlawless Topaz Gemstone",
+    "name": "Ââœ§ Flawless Topaz Gemstone",
     "recipe": {
       "A1": "",
       "A2": "FINE_TOPAZ_GEM:16",
@@ -16756,7 +16791,7 @@
   "FRIGID_HUSK": {
     "name": "ÂFrigid Husk",
     "wiki": "https://wiki.hypixel.net/Frigid_Husk",
-    "forge": 36000
+    "forge": 21600
   },
   "FROG_BARN_SKIN": {
     "name": "ÂFrog Barn Skin",
@@ -16949,7 +16984,7 @@
     }
   },
   "FUEL_TANK": {
-    "name": "ÂFuel Tank",
+    "name": "ÂFuel Canister",
     "wiki": "https://wiki.hypixel.net/Fuel_Tank",
     "forge": 36000
   },
@@ -17144,14 +17179,14 @@
     "forge": 30
   },
   "GEMSTONE_DRILL_4": {
-    "name": "ÂÂÂJasper Drill X",
+    "name": "ÂJasper Drill X",
     "wiki": "https://wiki.hypixel.net/Jasper_Drill_X",
     "forge": 30
   },
   "GEMSTONE_FUEL_TANK": {
     "name": "ÂGemstone Fuel Tank",
     "wiki": "https://wiki.hypixel.net/Gemstone_Fuel_Tank",
-    "forge": 108000
+    "forge": 30
   },
   "GEMSTONE_GAUNTLET": {
     "name": "ÂGemstone Gauntlet",
@@ -17738,17 +17773,17 @@
     "forge": 14400
   },
   "GLACITE_BOOTS": {
-    "name": "ÂÂÂGlacite Boots",
+    "name": "ÂGlacite Boots",
     "wiki": "https://wiki.hypixel.net/Glacite_Boots"
   },
   "GLACITE_CHESTPLATE": {
-    "name": "ÂÂÂGlacite Chestplate",
+    "name": "ÂGlacite Chestplate",
     "wiki": "https://wiki.hypixel.net/Glacite_Chestplate"
   },
   "GLACITE_CHISEL": {
     "name": "ÂGlacite-Plated Chisel",
     "wiki": "https://wiki.hypixel.net/Glacite_Chisel",
-    "forge": 64800
+    "forge": 30
   },
   "GLACITE_GOLEM;3": {
     "name": "Â[Lvl {LVL}] ÂGlacite Golem",
@@ -17783,7 +17818,7 @@
     "wiki": "https://wiki.hypixel.net/Glacite_Golem_Pet"
   },
   "GLACITE_HELMET": {
-    "name": "ÂÂÂGlacite Helmet",
+    "name": "ÂGlacite Helmet",
     "wiki": "https://wiki.hypixel.net/Glacite_Helmet"
   },
   "GLACITE_JEWEL": {
@@ -17824,7 +17859,7 @@
   "GLEAMING_CRYSTAL": {
     "name": "ÂGleaming Crystal",
     "wiki": "https://wiki.hypixel.net/Gleaming_Crystal",
-    "forge": 32400
+    "forge": 21600
   },
   "GLISTENING_MELON_FLUX": {
     "name": "ÂGlistening Melon Power Orb Skin",
@@ -18198,11 +18233,11 @@
     "forge": 604800
   },
   "GOBLIN_BOOTS": {
-    "name": "ÂÂÂGoblin Boots",
+    "name": "ÂGoblin Boots",
     "wiki": "https://wiki.hypixel.net/Goblin_Boots"
   },
   "GOBLIN_CHESTPLATE": {
-    "name": "ÂÂÂGoblin Chestplate",
+    "name": "ÂGoblin Chestplate",
     "wiki": "https://wiki.hypixel.net/Goblin_Chestplate"
   },
   "GOBLIN_EGG": {
@@ -18210,7 +18245,7 @@
     "wiki": "https://wiki.hypixel.net/Goblin_Egg"
   },
   "GOBLIN_EGG_BLUE": {
-    "name": "ÂBlue Goblin Egg",
+    "name": "ÂÂBlue Goblin Egg",
     "wiki": "https://wiki.hypixel.net/Blue_Goblin_Egg"
   },
   "GOBLIN_EGG_GREEN": {
@@ -18226,7 +18261,7 @@
     "wiki": "https://wiki.hypixel.net/Yellow_Goblin_Egg"
   },
   "GOBLIN_HELMET": {
-    "name": "ÂÂÂGoblin Helmet",
+    "name": "ÂGoblin Helmet",
     "wiki": "https://wiki.hypixel.net/Goblin_Helmet"
   },
   "GOBLIN_HELMET_BABY": {
@@ -18250,7 +18285,7 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Thief_Skin"
   },
   "GOBLIN_LEGGINGS": {
-    "name": "ÂÂÂGoblin Leggings",
+    "name": "ÂGoblin Leggings",
     "wiki": "https://wiki.hypixel.net/Goblin_Leggings"
   },
   "GOBLIN_OMELETTE": {
@@ -18261,22 +18296,22 @@
   "GOBLIN_OMELETTE_BLUE_CHEESE": {
     "name": "ÂBlue Cheese Goblin Omelette",
     "wiki": "https://wiki.hypixel.net/Blue_Cheese_Goblin_Omelette",
-    "forge": 72000
+    "forge": 64800
   },
   "GOBLIN_OMELETTE_PESTO": {
     "name": "ÂPesto Goblin Omelette",
     "wiki": "https://wiki.hypixel.net/Pesto_Goblin_Omelette",
-    "forge": 72000
+    "forge": 64800
   },
   "GOBLIN_OMELETTE_SPICY": {
     "name": "ÂSpicy Goblin Omelette",
     "wiki": "https://wiki.hypixel.net/Spicy_Goblin_Omelette",
-    "forge": 72000
+    "forge": 64800
   },
   "GOBLIN_OMELETTE_SUNNY_SIDE": {
     "name": "ÂSunny Side Goblin Omelette",
     "wiki": "https://wiki.hypixel.net/Sunny_Side_Goblin_Omelette",
-    "forge": 72000
+    "forge": 64800
   },
   "GOD_POTION": {
     "name": "ÂGod Potion",
@@ -20001,15 +20036,15 @@
   "HARD_STONE_GENERATOR_11": {
     "name": "ÂHard Stone Minion XI",
     "recipe": {
-      "A1": "CONCENTRATED_STONE:2",
-      "A2": "CONCENTRATED_STONE:2",
-      "A3": "CONCENTRATED_STONE:2",
-      "B1": "CONCENTRATED_STONE:2",
+      "A1": "CONCENTRATED_STONE:1",
+      "A2": "CONCENTRATED_STONE:1",
+      "A3": "CONCENTRATED_STONE:1",
+      "B1": "CONCENTRATED_STONE:1",
       "B2": "HARD_STONE_GENERATOR_10:1",
-      "B3": "CONCENTRATED_STONE:2",
-      "C1": "CONCENTRATED_STONE:2",
-      "C2": "CONCENTRATED_STONE:2",
-      "C3": "CONCENTRATED_STONE:2"
+      "B3": "CONCENTRATED_STONE:1",
+      "C1": "CONCENTRATED_STONE:1",
+      "C2": "CONCENTRATED_STONE:1",
+      "C3": "CONCENTRATED_STONE:1"
     },
     "wiki": "https://wiki.hypixel.net/Hard_Stone_Minion"
   },
@@ -20019,7 +20054,7 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:2000000",
-        "CONCENTRATED_STONE:32",
+        "CONCENTRATED_STONE:16",
         "HARD_STONE_GENERATOR_11:1"
       ]
     }
@@ -20177,6 +20212,20 @@
   "HARVESTING;6": {
     "name": "ÂÂÂEnchanted Book"
   },
+  "HASTE_ARTIFACT": {
+    "name": "ÂHaste Artifact",
+    "recipe": {
+      "A1": "ENCHANTED_COBBLESTONE:32",
+      "A2": "ENCHANTED_COBBLESTONE:32",
+      "A3": "ENCHANTED_COBBLESTONE:32",
+      "B1": "ENCHANTED_COBBLESTONE:32",
+      "B2": "HASTE_RING:1",
+      "B3": "ENCHANTED_COBBLESTONE:32",
+      "C1": "ENCHANTED_COBBLESTONE:32",
+      "C2": "ENCHANTED_COBBLESTONE:32",
+      "C3": "ENCHANTED_COBBLESTONE:32"
+    }
+  },
   "HASTE_BLOCK": {
     "name": "ÂHaste Block",
     "recipe": {
@@ -20195,15 +20244,15 @@
   "HASTE_RING": {
     "name": "ÂHaste Ring",
     "recipe": {
-      "A1": "ENCHANTED_COBBLESTONE:32",
-      "A2": "ENCHANTED_COBBLESTONE:32",
-      "A3": "ENCHANTED_COBBLESTONE:32",
-      "B1": "ENCHANTED_COBBLESTONE:32",
+      "A1": "ENCHANTED_COBBLESTONE:16",
+      "A2": "ENCHANTED_COBBLESTONE:16",
+      "A3": "ENCHANTED_COBBLESTONE:16",
+      "B1": "ENCHANTED_COBBLESTONE:16",
       "B2": "",
-      "B3": "ENCHANTED_COBBLESTONE:32",
-      "C1": "ENCHANTED_COBBLESTONE:32",
-      "C2": "ENCHANTED_COBBLESTONE:32",
-      "C3": "ENCHANTED_COBBLESTONE:32"
+      "B3": "ENCHANTED_COBBLESTONE:16",
+      "C1": "ENCHANTED_COBBLESTONE:16",
+      "C2": "ENCHANTED_COBBLESTONE:16",
+      "C3": "ENCHANTED_COBBLESTONE:16"
     },
     "wiki": "https://wiki.hypixel.net/Haste_Ring"
   },
@@ -20969,7 +21018,7 @@
     "name": "ÂÂÂâ—† Hot Rune III"
   },
   "HOT_STUFF": {
-    "name": "ÂHot Stuff",
+    "name": "ÂScorched Topaz",
     "recipe": {
       "A1": "ENCHANTED_HARD_STONE:12",
       "A2": "ENCHANTED_HARD_STONE:12",
@@ -20982,7 +21031,7 @@
       "C3": "ENCHANTED_HARD_STONE:12"
     },
     "wiki": "https://wiki.hypixel.net/Hot_Stuff",
-    "forge": 86400
+    "forge": 21600
   },
   "HOT_TERROR_BOOTS": {
     "name": "ÂHot Terror Boots",
@@ -27289,7 +27338,7 @@
     "wiki": "https://wiki.hypixel.net/Mineral_Talisman"
   },
   "MINER_OUTFIT_BOOTS": {
-    "name": "ÂMiner\u0027s Outfit Boots",
+    "name": "ÂProspecting Boots",
     "recipe": {
       "A1": "",
       "A2": "",
@@ -27304,7 +27353,7 @@
     "wiki": "https://wiki.hypixel.net/Miner\u0027s_Outfit_Boots"
   },
   "MINER_OUTFIT_CHESTPLATE": {
-    "name": "ÂMiner\u0027s Outfit Chestplate",
+    "name": "ÂProspecting Chestplate",
     "recipe": {
       "A1": "ENCHANTED_COBBLESTONE:1",
       "A2": "",
@@ -27319,7 +27368,7 @@
     "wiki": "https://wiki.hypixel.net/Miner\u0027s_Outfit_Chestplate"
   },
   "MINER_OUTFIT_HELMET": {
-    "name": "ÂMiner\u0027s Outfit Helmet",
+    "name": "ÂProspecting Helmet",
     "recipe": {
       "A1": "ENCHANTED_COBBLESTONE:1",
       "A2": "ENCHANTED_COBBLESTONE:1",
@@ -27334,7 +27383,7 @@
     "wiki": "https://wiki.hypixel.net/Miner\u0027s_Outfit_Helmet"
   },
   "MINER_OUTFIT_LEGGINGS": {
-    "name": "ÂMiner\u0027s Outfit Leggings",
+    "name": "ÂProspecting Leggings",
     "recipe": {
       "A1": "ENCHANTED_COBBLESTONE:1",
       "A2": "ENCHANTED_COBBLESTONE:1",
@@ -27429,8 +27478,14 @@
     "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_Dwarven_Mines"
   },
   "MINING_PUMPKIN": {
-    "name": "ÂÂÂMining Pumpkin",
-    "wiki": "https://wiki.hypixel.net/Mining_Pumpkin"
+    "name": "ÂPowder Pumpkin",
+    "wiki": "https://wiki.hypixel.net/Mining_Pumpkin",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:50000.0"
+      ],
+      "count": 1
+    }
   },
   "MINING_RAFFLE_TICKET": {
     "name": "ÂRaffle Ticket",
@@ -27612,12 +27667,12 @@
   "MITHRIL_DRILL_ENGINE": {
     "name": "ÂMithril-Plated Drill Engine",
     "wiki": "https://wiki.hypixel.net/Mithril-Plated_Drill_Engine",
-    "forge": 54000
+    "forge": 86400
   },
   "MITHRIL_FUEL_TANK": {
     "name": "ÂMithril-Infused Fuel Tank",
     "wiki": "https://wiki.hypixel.net/Mithril-Infused_Fuel_Tank",
-    "forge": 36000
+    "forge": 86400
   },
   "MITHRIL_GAUNTLET": {
     "name": "ÂMithril Gauntlet",
@@ -27801,7 +27856,7 @@
     "wiki": "https://wiki.hypixel.net/Mithril_Minion_IX"
   },
   "MITHRIL_GOLEM;0": {
-    "name": "ÂÂÂ[Lvl {LVL}] ÂMithril Golem",
+    "name": "Â[Lvl {LVL}] ÂMithril Golem",
     "recipe": {
       "A1": "ENCHANTED_MITHRIL:16",
       "A2": "ENCHANTED_MITHRIL:16",
@@ -27817,7 +27872,7 @@
     "wiki": "https://wiki.hypixel.net/Mithril_Golem_Pet"
   },
   "MITHRIL_GOLEM;1": {
-    "name": "ÂÂÂ[Lvl {LVL}] ÂMithril Golem",
+    "name": "Â[Lvl {LVL}] ÂMithril Golem",
     "recipe": {
       "A1": "ENCHANTED_MITHRIL:16",
       "A2": "ENCHANTED_MITHRIL:16",
@@ -27833,7 +27888,7 @@
     "wiki": "https://wiki.hypixel.net/Mithril_Golem_Pet"
   },
   "MITHRIL_GOLEM;2": {
-    "name": "ÂÂÂ[Lvl {LVL}] ÂMithril Golem",
+    "name": "Â[Lvl {LVL}] ÂMithril Golem",
     "recipe": {
       "A1": "ENCHANTED_MITHRIL:16",
       "A2": "ENCHANTED_MITHRIL:16",
@@ -27849,7 +27904,7 @@
     "wiki": "https://wiki.hypixel.net/Mithril_Golem_Pet"
   },
   "MITHRIL_GOLEM;3": {
-    "name": "ÂÂÂ[Lvl {LVL}] ÂMithril Golem",
+    "name": "Â[Lvl {LVL}] ÂMithril Golem",
     "recipe": {
       "A1": "ENCHANTED_MITHRIL:16",
       "A2": "ENCHANTED_MITHRIL:16",
@@ -27865,7 +27920,7 @@
     "wiki": "https://wiki.hypixel.net/Mithril_Golem_Pet"
   },
   "MITHRIL_GOLEM;4": {
-    "name": "ÂÂÂ[Lvl {LVL}] ÂMithril Golem",
+    "name": "Â[Lvl {LVL}] ÂMithril Golem",
     "recipe": {
       "A1": "ENCHANTED_MITHRIL:16",
       "A2": "ENCHANTED_MITHRIL:16",
@@ -27881,7 +27936,7 @@
     "wiki": "https://wiki.hypixel.net/Mithril_Golem_Pet"
   },
   "MITHRIL_GOLEM;5": {
-    "name": "ÂÂÂ[Lvl {LVL}] ÂMithril Golem",
+    "name": "Â[Lvl {LVL}] ÂMithril Golem",
     "texture": "c1b2dfe8ed5dffc5b1687bc1c249c39de2d8a6c3d90305c95f6d1a1a330a0b1",
     "wiki": "https://wiki.hypixel.net/Mithril_Golem_Pet"
   },
@@ -27916,7 +27971,15 @@
   "MITHRIL_PICKAXE": {
     "name": "ÂMithril Pickaxe",
     "wiki": "https://wiki.hypixel.net/Mithril_Pickaxe",
-    "forge": 2700
+    "forge": 2700,
+    "npc_buy": {
+      "cost": [
+        "BANDAGED_MITHRIL_PICKAXE:1",
+        "ENCHANTED_MITHRIL:64",
+        "BEJEWELED_HANDLE:1",
+        "ENCHANTED_GOLD:64"
+      ]
+    }
   },
   "MITHRIL_PLATE": {
     "name": "ÂMithril Plate",
@@ -30494,15 +30557,15 @@
   "PERFECTLY_CUT_FUEL_TANK": {
     "name": "ÂPerfectly-Cut Fuel Tank",
     "wiki": "https://wiki.hypixel.net/Perfectly-Cut_Fuel_Tank",
-    "forge": 180000
+    "forge": 30
   },
   "PERFECT_AMBER_GEM": {
-    "name": "Ââ¸• ÂPerfect Amber Gemstone",
+    "name": "Ââ¸• Perfect Amber Gemstone",
     "wiki": "https://wiki.hypixel.net/%E2%B8%95_Perfect_Amber_Gemstone",
     "forge": 72000
   },
   "PERFECT_AMETHYST_GEM": {
-    "name": "Ââˆ ÂPerfect Amethyst Gemstone",
+    "name": "Ââˆ Perfect Amethyst Gemstone",
     "wiki": "https://wiki.hypixel.net/%E2%9D%88_Perfect_Amethyst_Gemstone",
     "forge": 72000
   },
@@ -30880,7 +30943,7 @@
   "PERFECT_CHISEL": {
     "name": "ÂPerfect Chisel",
     "wiki": "https://wiki.hypixel.net/Perfect_Chisel",
-    "forge": 86400
+    "forge": 30
   },
   "PERFECT_CITRINE_GEM": {
     "name": "Ââ˜˜ Perfect Citrine Gemstone",
@@ -31075,12 +31138,12 @@
     "wiki": "https://wiki.hypixel.net/Perfect_Helmet_-_Tier"
   },
   "PERFECT_JADE_GEM": {
-    "name": "Ââ˜˜ ÂPerfect Jade Gemstone",
+    "name": "Ââ˜˜ Perfect Jade Gemstone",
     "wiki": "https://wiki.hypixel.net/%E2%98%98_Perfect_Jade_Gemstone",
     "forge": 72000
   },
   "PERFECT_JASPER_GEM": {
-    "name": "Ââ ÂPerfect Jasper Gemstone",
+    "name": "Ââ Perfect Jasper Gemstone",
     "wiki": "https://wiki.hypixel.net/%E2%9D%81_Perfect_Jasper_Gemstone",
     "forge": 72000
   },
@@ -31273,7 +31336,7 @@
     "forge": 72000
   },
   "PERFECT_OPAL_GEM": {
-    "name": "Ââ‚ ÂPerfect Opal Gemstone",
+    "name": "Ââ‚ Perfect Opal Gemstone",
     "wiki": "https://wiki.hypixel.net/Gemstone",
     "forge": 72000
   },
@@ -31288,17 +31351,17 @@
     "forge": 21600
   },
   "PERFECT_RUBY_GEM": {
-    "name": "Ââ¤ ÂPerfect Ruby Gemstone",
+    "name": "Ââ¤ Perfect Ruby Gemstone",
     "wiki": "https://wiki.hypixel.net/%E2%9D%A4_Perfect_Ruby_Gemstone",
     "forge": 72000
   },
   "PERFECT_SAPPHIRE_GEM": {
-    "name": "ÂâœŽ ÂPerfect Sapphire Gemstone",
+    "name": "ÂâœŽ Perfect Sapphire Gemstone",
     "wiki": "https://wiki.hypixel.net/%E2%9C%8E_Perfect_Sapphire_Gemstone",
     "forge": 72000
   },
   "PERFECT_TOPAZ_GEM": {
-    "name": "Ââœ§ ÂPerfect Topaz Gemstone",
+    "name": "Ââœ§ Perfect Topaz Gemstone",
     "wiki": "https://wiki.hypixel.net/%E2%9C%A7_Perfect_Topaz_Gemstone",
     "forge": 72000
   },
@@ -31495,7 +31558,7 @@
   "PETRIFIED_STARFALL": {
     "name": "ÂPetrified Starfall",
     "wiki": "https://wiki.hypixel.net/Petrified_Starfall",
-    "forge": 50400
+    "forge": 21600
   },
   "PET_CAKE": {
     "name": "ÂPet Cake",
@@ -31693,10 +31756,13 @@
   },
   "PET_ITEM_MINING_SKILL_BOOST_RARE": {
     "name": "ÂMining Exp Boost",
-    "wiki": "https://wiki.hypixel.net/Mining_Exp_Boost",
+    "wiki": "https://wiki.hypixel.net/Mining_Exp_Boost"
+  },
+  "PET_ITEM_MINING_SKILL_BOOST_UNCOMMON": {
+    "name": "ÂMining Exp Boost",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_COIN:500000"
+        "SKYBLOCK_COIN:250000"
       ]
     }
   },
@@ -31769,6 +31835,9 @@
   "PET_ITEM_TIER_BOOST_DROP": {
     "name": "ÂTier Boost Core",
     "wiki": "https://wiki.hypixel.net/Tier_Boost_Core"
+  },
+  "PET_ITEM_TITANIUM_MINECART": {
+    "name": "ÂTitanium Minecart"
   },
   "PET_ITEM_TOY_JERRY": {
     "name": "ÂJerry 3D Glasses",
@@ -32620,7 +32689,7 @@
     "wiki": "https://wiki.hypixel.net/Sentinel_Zombie_Skin"
   },
   "PHANTOM_ROD": {
-    "name": "ÂÂÂPhantom Rod",
+    "name": "ÂPhantom Rod",
     "wiki": "https://wiki.hypixel.net/Phantom_Rod"
   },
   "PHOENIX;3": {
@@ -32634,7 +32703,7 @@
     "wiki": "https://wiki.hypixel.net/Phoenix_Pet"
   },
   "PICKONIMBUS": {
-    "name": "ÂÂÂPickonimbus 2000",
+    "name": "ÂPickonimbus 2000",
     "wiki": "https://wiki.hypixel.net/Pickonimbus_2000"
   },
   "PICNIC_SET": {
@@ -33111,6 +33180,10 @@
     "name": "ÂÂÂPocket Espresso Machine",
     "wiki": "https://wiki.hypixel.net/Pocket_Espresso_Machine"
   },
+  "POCKET_ICEBERG": {
+    "name": "ÂPocket Iceberg",
+    "forge": 21600
+  },
   "POCKET_SACK_IN_A_SACK": {
     "name": "ÂPocket Sack-in-a-Sack",
     "wiki": "https://wiki.hypixel.net/Pocket_Sack-in-a-Sack"
@@ -33179,6 +33252,10 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Polished_Pumpkin"
+  },
+  "POLISHED_TOPAZ_ROD": {
+    "name": "ÂPolished Topaz Rod",
+    "forge": 43200
   },
   "POND_ISLAND": {
     "name": "ÂPond Island",
@@ -34310,6 +34387,20 @@
     "name": "ÂPrecious Pearl",
     "wiki": "https://wiki.hypixel.net/Precious_Pearl"
   },
+  "PRECURSOR_APPARATUS": {
+    "name": "ÂPrecursor Apparatus",
+    "recipe": {
+      "A1": "CONTROL_SWITCH:1",
+      "A2": "ELECTRON_TRANSMITTER:1",
+      "A3": "FTX_3070:1",
+      "B1": "ROBOTRON_REFLECTOR:1",
+      "B2": "SUPERLITE_MOTOR:1",
+      "B3": "SYNTHETIC_HEART:1",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
+  },
   "PRECURSOR_EYE": {
     "name": "ÂPrecursor Eye",
     "wiki": "https://wiki.hypixel.net/Precursor_Eye"
@@ -34509,7 +34600,7 @@
     "name": "ÂEnchanted Book"
   },
   "PRISTINE;5": {
-    "name": "ÂÂÂEnchanted Book"
+    "name": "ÂEnchanted Book"
   },
   "PROJECTILE_PROTECTION;1": {
     "name": "ÂEnchanted Book",
@@ -35148,7 +35239,7 @@
   "PURE_MITHRIL": {
     "name": "ÂPure Mithril",
     "wiki": "https://wiki.hypixel.net/Pure_Mithril",
-    "forge": 43200
+    "forge": 21600
   },
   "PURPLE_CANDY": {
     "name": "ÂPurple Candy",
@@ -35945,7 +36036,7 @@
     "wiki": "https://wiki.hypixel.net/Rancher\u0027s_Boots"
   },
   "RANDOM_CENTURY_CAKE_PACK": {
-    "name": "ÂÂÂRandom Century Cake Bundle",
+    "name": "ÂRandom Century Cake Bundle",
     "wiki": "https://wiki.hypixel.net/Random_Century_Cake_Bundle"
   },
   "RARE_DIAMOND": {
@@ -36857,7 +36948,7 @@
     "wiki": "https://wiki.hypixel.net/Rift_Boat"
   },
   "REFINED_AMBER": {
-    "name": "ÂRefined Amber",
+    "name": "ÂAndesite Whetstone",
     "wiki": "https://wiki.hypixel.net/Refined_Amber",
     "npc_buy": {
       "cost": [
@@ -36887,9 +36978,15 @@
     "forge": 21600
   },
   "REFINED_MITHRIL_PICKAXE": {
-    "name": "ÂÂÂRefined Mithril Pickaxe",
+    "name": "ÂRefined Mithril Pickaxe",
     "wiki": "https://wiki.hypixel.net/Refined_Mithril_Pickaxe",
-    "forge": 79200
+    "forge": 79200,
+    "npc_buy": {
+      "cost": [
+        "MITHRIL_PICKAXE:1",
+        "REFINED_MITHRIL:2"
+      ]
+    }
   },
   "REFINED_TITANIUM": {
     "name": "ÂRefined Titanium",
@@ -36902,7 +36999,7 @@
     "npc_buy": {
       "cost": [
         "TITANIUM_PICKAXE:1",
-        "REFINED_TITANIUM:3"
+        "REFINED_TITANIUM:1"
       ]
     }
   },
@@ -36996,7 +37093,7 @@
   "REINFORCED_CHISEL": {
     "name": "ÂReinforced Chisel",
     "wiki": "https://wiki.hypixel.net/Reinforced_Chisel",
-    "forge": 43200
+    "forge": 30
   },
   "REINFORCED_IRON_ARROW": {
     "name": "ÂReinforced Iron Arrow",
@@ -37728,9 +37825,9 @@
     "wiki": "https://wiki.hypixel.net/Rock_Candy"
   },
   "ROCK_GEMSTONE": {
-    "name": "ÂRock Gemstone",
+    "name": "ÂDwarven Geode",
     "wiki": "https://wiki.hypixel.net/Rock_Gemstone",
-    "forge": 79200
+    "forge": 21600
   },
   "ROCK_PAPER_SHEARS": {
     "name": "ÂRock Paper Shears",
@@ -37891,7 +37988,7 @@
     "wiki": "https://wiki.hypixel.net/Rotten_Leggings"
   },
   "ROUGH_AMBER_GEM": {
-    "name": "Ââ¸• ÂRough Amber Gemstone",
+    "name": "Ââ¸• Rough Amber Gemstone",
     "wiki": "https://wiki.hypixel.net/%E2%B8%95_Rough_Amber_Gemstone"
   },
   "ROUGH_AMETHYST_GEM": {
@@ -37907,7 +38004,7 @@
     "wiki": "https://wiki.hypixel.net/â˜˜_Rough_Citrine_Gemstone"
   },
   "ROUGH_JADE_GEM": {
-    "name": "Ââ˜˜ ÂRough Jade Gemstone",
+    "name": "Ââ˜˜ Rough Jade Gemstone",
     "wiki": "https://wiki.hypixel.net/%E2%98%98_Rough_Jade_Gemstone"
   },
   "ROUGH_JASPER_GEM": {
@@ -37938,6 +38035,9 @@
     "name": "Ââœ§ ÂRough Topaz Gemstone",
     "wiki": "https://wiki.hypixel.net/%E2%9C%A7_Rough_Topaz_Gemstone"
   },
+  "ROYAL_COMPASS": {
+    "name": "ÂRoyal Compass"
+  },
   "ROYAL_PIGEON": {
     "name": "ÂRoyal Pigeon",
     "wiki": "https://wiki.hypixel.net/Royal_Pigeon"
@@ -37949,7 +38049,7 @@
   "RUBY_POLISHED_DRILL_ENGINE": {
     "name": "ÂRuby-Polished Drill Engine",
     "wiki": "https://wiki.hypixel.net/Ruby-Polished_Drill_Engine",
-    "forge": 72000
+    "forge": 30
   },
   "RUBY_POWER_SCROLL": {
     "name": "ÂRuby Power Scroll",
@@ -37997,6 +38097,14 @@
         "BLUE_ICE_HUNK:64"
       ],
       "count": 1
+    }
+  },
+  "RUSTY_TITANIUM_PICKAXE": {
+    "name": "ÂRusty Titanium Pickaxe Âx1",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:50000"
+      ]
     }
   },
   "SADAN_BROOCH": {
@@ -38098,7 +38206,7 @@
     }
   },
   "SALMON_OPAL": {
-    "name": "ÂSalmon Opal",
+    "name": "ÂKaleidoscopic Mineral",
     "wiki": "https://wiki.hypixel.net/Salmon_Opal"
   },
   "SALT_CUBE": {
@@ -38403,7 +38511,7 @@
   "SAPPHIRE_POLISHED_DRILL_ENGINE": {
     "name": "ÂSapphire-Polished Drill Engine",
     "wiki": "https://wiki.hypixel.net/Sapphire-Polished_Drill_Engine",
-    "forge": 108000
+    "forge": 30
   },
   "SAPPHIRE_POWER_SCROLL": {
     "name": "ÂSapphire Power Scroll",
@@ -38538,12 +38646,12 @@
     "wiki": "https://wiki.hypixel.net/Scary_Grimoire"
   },
   "SCATHA;2": {
-    "name": "ÂÂÂ[Lvl {LVL}] ÂScatha",
+    "name": "Â[Lvl {LVL}] ÂScatha",
     "texture": "df03ad96092f3f789902436709cdf69de6b727c121b3c2daef9ffa1ccaed186c",
     "wiki": "https://wiki.hypixel.net/Scatha_Pet"
   },
   "SCATHA;3": {
-    "name": "ÂÂÂ[Lvl {LVL}] ÂScatha",
+    "name": "Â[Lvl {LVL}] ÂScatha",
     "texture": "df03ad96092f3f789902436709cdf69de6b727c121b3c2daef9ffa1ccaed186c",
     "wiki": "https://wiki.hypixel.net/Scatha_Pet"
   },
@@ -39625,7 +39733,7 @@
     "name": "ÂEnchanted Book"
   },
   "SILVERFISH;0": {
-    "name": "ÂÂÂ[Lvl {LVL}] ÂSilverfish",
+    "name": "Â[Lvl {LVL}] ÂSilverfish",
     "recipe": {
       "A1": "ENCHANTED_COBBLESTONE:8",
       "A2": "ENCHANTED_COBBLESTONE:8",
@@ -39641,7 +39749,7 @@
     "wiki": "https://wiki.hypixel.net/Silverfish_Pet"
   },
   "SILVERFISH;1": {
-    "name": "ÂÂÂ[Lvl {LVL}] ÂSilverfish",
+    "name": "Â[Lvl {LVL}] ÂSilverfish",
     "recipe": {
       "A1": "ENCHANTED_COBBLESTONE:8",
       "A2": "ENCHANTED_COBBLESTONE:8",
@@ -39657,7 +39765,7 @@
     "wiki": "https://wiki.hypixel.net/Silverfish_Pet"
   },
   "SILVERFISH;2": {
-    "name": "ÂÂÂ[Lvl {LVL}] ÂSilverfish",
+    "name": "Â[Lvl {LVL}] ÂSilverfish",
     "recipe": {
       "A1": "ENCHANTED_COBBLESTONE:8",
       "A2": "ENCHANTED_COBBLESTONE:8",
@@ -39673,7 +39781,7 @@
     "wiki": "https://wiki.hypixel.net/Silverfish_Pet"
   },
   "SILVERFISH;3": {
-    "name": "ÂÂÂ[Lvl {LVL}] ÂSilverfish",
+    "name": "Â[Lvl {LVL}] ÂSilverfish",
     "recipe": {
       "A1": "ENCHANTED_COBBLESTONE:8",
       "A2": "ENCHANTED_COBBLESTONE:8",
@@ -39689,7 +39797,7 @@
     "wiki": "https://wiki.hypixel.net/Silverfish_Pet"
   },
   "SILVERFISH;4": {
-    "name": "ÂÂÂ[Lvl {LVL}] ÂSilverfish",
+    "name": "Â[Lvl {LVL}] ÂSilverfish",
     "recipe": {
       "A1": "ENCHANTED_COBBLESTONE:8",
       "A2": "ENCHANTED_COBBLESTONE:8",
@@ -41521,7 +41629,7 @@
     "wiki": "https://wiki.hypixel.net/Solved_Rubix_Prism"
   },
   "SORROW": {
-    "name": "ÂÂÂSorrow",
+    "name": "ÂSorrow",
     "wiki": "https://wiki.hypixel.net/Sorrow"
   },
   "SORROW_BOOTS": {
@@ -43799,6 +43907,10 @@
   "STARFALL": {
     "name": "ÂStarfall",
     "wiki": "https://wiki.hypixel.net/Starfall"
+  },
+  "STARFALL_SEASONING": {
+    "name": "ÂStarfall Seasoning",
+    "forge": 64800
   },
   "STARLIGHT_BOOTS": {
     "name": "ÂStarlight Boots",
@@ -46746,14 +46858,14 @@
     "forge": 30
   },
   "TITANIUM_DRILL_ENGINE": {
-    "name": "ÂÂÂTitanium-Plated Drill Engine",
+    "name": "ÂTitanium-Plated Drill Engine",
     "wiki": "https://wiki.hypixel.net/Titanium-Plated_Drill_Engine",
-    "forge": 108000
+    "forge": 30
   },
   "TITANIUM_FUEL_TANK": {
-    "name": "ÂÂÂTitanium-Infused Fuel Tank",
+    "name": "ÂTitanium-Infused Fuel Tank",
     "wiki": "https://wiki.hypixel.net/Titanium-Infused_Fuel_Tank",
-    "forge": 90000
+    "forge": 30
   },
   "TITANIUM_GAUNTLET": {
     "name": "ÂTitanium Gauntlet",
@@ -46770,12 +46882,12 @@
     "wiki": "https://wiki.hypixel.net/Titanium"
   },
   "TITANIUM_PICKAXE": {
-    "name": "ÂÂÂTitanium Pickaxe",
+    "name": "ÂTitanium Pickaxe",
     "wiki": "https://wiki.hypixel.net/Titanium_Pickaxe",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_COIN:1000000",
-        "TITANIUM_ORE:100",
+        "RUSTY_TITANIUM_PICKAXE:1",
+        "ENCHANTED_TITANIUM:4",
         "BEJEWELED_HANDLE:1"
       ]
     }
@@ -46794,6 +46906,10 @@
     "name": "ÂTitanium Talisman",
     "wiki": "https://wiki.hypixel.net/Titanium_Talisman",
     "forge": 50400
+  },
+  "TITANIUM_TESSERACT": {
+    "name": "ÂTitanium Tesseract",
+    "forge": 21600
   },
   "TITAN_KILLER;1": {
     "name": "ÂEnchanted Book"
@@ -47157,7 +47273,7 @@
   "TUNGSTEN_KEYCHAIN": {
     "name": "ÂTungsten Regulator",
     "wiki": "https://wiki.hypixel.net/Tungsten_Keychain",
-    "forge": 21600
+    "forge": 64800
   },
   "TUNGSTEN_PLATE": {
     "name": "ÂTungsten Plate",
@@ -47488,6 +47604,15 @@
   },
   "ULTIMATE_FLASH;5": {
     "name": "ÂÂEnchanted Book"
+  },
+  "ULTIMATE_FLOWSTATE;1": {
+    "name": "ÂEnchanted Book"
+  },
+  "ULTIMATE_FLOWSTATE;2": {
+    "name": "ÂEnchanted Book"
+  },
+  "ULTIMATE_FLOWSTATE;3": {
+    "name": "ÂEnchanted Book"
   },
   "ULTIMATE_HABANERO_TACTICS;4": {
     "name": "ÂEnchanted Book",
