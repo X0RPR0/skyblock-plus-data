@@ -1576,6 +1576,9 @@
     "texture": "ab126814fc3fa846dad934c349628a7a1de5b415021a03ef4211d62514d5",
     "wiki": "https://wiki.hypixel.net/Baby_Yeti_Pet"
   },
+  "BACKPACK_CAT_O_LANTERN": {
+    "name": "ÂCat-o-Lantern Skin"
+  },
   "BACTE_FRAGMENT": {
     "name": "ÂBacte Fragment",
     "wiki": "https://wiki.hypixel.net/Bacte_Fragment"
@@ -2417,6 +2420,9 @@
   "BEATING_HEART": {
     "name": "ÂBeating Heart",
     "wiki": "https://wiki.hypixel.net/Beating_Heart"
+  },
+  "BEAUTIFALL_CABIN_BARN_SKIN": {
+    "name": "ÂBeautifall Cabin Barn Skin"
   },
   "BED": {
     "name": "ÂBed",
@@ -17929,6 +17935,9 @@
     },
     "wiki": "https://wiki.hypixel.net/Glossy_Mineral_Helmet"
   },
+  "GLOSSY_MINERAL_HELMET_ROYAL": {
+    "name": "ÂRoyal Skin"
+  },
   "GLOSSY_MINERAL_LEGGINGS": {
     "name": "ÂGlossy Mineral Leggings",
     "recipe": {
@@ -28856,6 +28865,9 @@
     "name": "ÂMysterious Meat",
     "wiki": "https://wiki.hypixel.net/Mysterious_Meat"
   },
+  "MYSTIC_MOON_FLUX": {
+    "name": "ÂMystic Moon Power Orb Skin"
+  },
   "NAME_TAG": {
     "name": "ÂName Tag"
   },
@@ -32162,6 +32174,9 @@
     "name": "ÂFour Seasons Griffin Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Four_Seasons_Griffin_Skin"
   },
+  "PET_SKIN_GHOUL_GHOULFRIEND": {
+    "name": "ÂGhoulfriend Ghoul Skin"
+  },
   "PET_SKIN_GIRAFFE_SAFARI": {
     "name": "ÂSafari Giraffe Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Safari_Giraffe_Skin"
@@ -32322,6 +32337,9 @@
   "PET_SKIN_PARROT_BUCCANEER": {
     "name": "ÂBuccaneer Parrot Skin",
     "wiki": "https://wiki.hypixel.net/Fire_Sale"
+  },
+  "PET_SKIN_PARROT_CROW": {
+    "name": "ÂCrow Parrot Skin"
   },
   "PET_SKIN_PARROT_GOLD_MACAW": {
     "name": "ÂGold Macaw Parrot Skin",
@@ -32562,6 +32580,9 @@
   "PET_SKIN_SILVERFISH_FOSSILIZED": {
     "name": "ÂFossilized Silverfish Skin",
     "wiki": "https://wiki.hypixel.net/Fossilized_Silverfish_Skin"
+  },
+  "PET_SKIN_SKELETON_PEARL": {
+    "name": "ÂPearl Skeleton Skin"
   },
   "PET_SKIN_SLUG_AZURE_SEA_SLUG": {
     "name": "ÂAzure Sea Slug Skin",
@@ -45522,6 +45543,9 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Mystical_Mushroom_Soup"
+  },
+  "SUPER_PUMPKIN_RUNE;3": {
+    "name": "Ââ—† Super Pumpkin Rune III"
   },
   "SUPER_UNDEAD_BOW": {
     "name": "ÂSuper Undead Bow",
